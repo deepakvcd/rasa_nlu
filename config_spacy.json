@@ -1,0 +1,5 @@
+{
+  "name" : "normal",
+  "pipeline": "spacy_sklearn",
+  "path" : "./models"
+}
