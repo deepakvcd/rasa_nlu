@@ -1,0 +1,248 @@
+the capital of Abkhazia is Sukhumi
+the capital of Afghanistan is Kabul
+the capital of Akrotiri and Dhekelia is Episkopi Cantonment
+the capital of Albania is Tirana
+the capital of Algeria is Algiers
+the capital of American Samoa is Pago Pago
+the capital of Andorra is Andorra la Vella
+the capital of Angola is Luanda
+the capital of Anguilla is The Valley
+the capital of Antigua and Barbuda is St. John's
+the capital of Argentina is Buenos Aires
+the capital of Armenia is Yerevan
+the capital of Aruba is Oranjestad
+the capital of Ascension Island is Georgetown
+the capital of Australia is Canberra
+the capital of Austria is Vienna
+the capital of Azerbaijan is Baku
+the capital of Bahamas is Nassau
+the capital of Bahrain is Manama
+the capital of Bangladesh is Dhaka
+the capital of Barbados is Bridgetown
+the capital of Belarus is Minsk
+the capital of Belgium is Brussels
+the capital of Belize is Belmopan
+the capital of Benin is Porto-Novo
+the capital of Bermuda is Hamilton
+the capital of Bhutan is Thimphu
+the capital of Bolivia is Sucre
+the capital of Bolivia is La Paz
+the capital of Bosnia and Herzegovina is Sarajevo
+the capital of Botswana is Gaborone
+the capital of Brazil is Brasília
+the capital of British Virgin Islands is Road Town
+the capital of Brunei is Bandar Seri Begawan
+the capital of Bulgaria is Sofia
+the capital of Burkina Faso is Ouagadougou
+the capital of Burundi is Bujumbura
+the capital of Cambodia is Phnom Penh
+the capital of Cameroon is Yaoundé
+the capital of Canada is Ottawa
+the capital of Cape Verde is Praia
+the capital of Cayman Islands is George Town
+the capital of Central African Republic is Bangui
+the capital of Chad is N'Djamena
+the capital of Chile is Santiago
+the capital of China is Beijing
+the capital of Christmas Island is Flying Fish Cove
+the capital of Cocos (Keeling) Islands is West Island
+the capital of Colombia is Bogotá
+the capital of Comoros is Moroni
+the capital of Cook Islands is Avarua
+the capital of Costa Rica is San José
+the capital of Croatia is Zagreb
+the capital of Cuba is Havana
+the capital of Curaçao is Willemstad
+the capital of Cyprus is Nicosia
+the capital of Czech Republic is Prague
+the capital of Côte d'Ivoire is Yamoussoukro
+the capital of Democratic Republic of the Congo is Kinshasa
+the capital of Denmark is Copenhagen
+the capital of Djibouti is Djibouti
+the capital of Dominica is Roseau
+the capital of Dominican Republic is Santo Domingo
+the capital of East Timor (Timor-Leste) is Dili
+the capital of Easter Island is Hanga Roa
+the capital of Ecuador is Quito
+the capital of Egypt is Cairo
+the capital of El Salvador is San Salvador
+the capital of Equatorial Guinea is Malabo
+the capital of Eritrea is Asmara
+the capital of Estonia is Tallinn
+the capital of Ethiopia is Addis Ababa
+the capital of Falkland Islands is Stanley
+the capital of Faroe Islands is Tórshavn
+the capital of Federated States of Micronesia is Palikir
+the capital of Fiji is Suva
+the capital of Finland is Helsinki
+the capital of France is Paris
+the capital of French Guiana is Cayenne
+the capital of French Polynesia is Papeete
+the capital of Gabon is Libreville
+the capital of Gambia is Banjul
+the capital of Georgia is Tbilisi
+the capital of Germany is Berlin
+the capital of Ghana is Accra
+the capital of Gibraltar is Gibraltar
+the capital of Greece is Athens
+the capital of Greenland is Nuuk
+the capital of Grenada is St. George's
+the capital of Guam is Hagåtña
+the capital of Guatemala is Guatemala City
+the capital of Guernsey is St. Peter Port
+the capital of Guinea is Conakry
+the capital of Guinea-Bissau is Bissau
+the capital of Guyana is Georgetown
+the capital of Haiti is Port-au-Prince
+the capital of Honduras is Tegucigalpa
+the capital of Hungary is Budapest
+the capital of Iceland is Reykjavík
+the capital of India is New Delhi
+the capital of Indonesia is Jakarta
+the capital of Iran is Tehran
+the capital of Iraq is Baghdad
+the capital of Ireland is Dublin
+the capital of Isle of Man is Douglas
+the capital of Israel is Jerusalem
+the capital of Italy is Rome
+the capital of Jamaica is Kingston
+the capital of Japan is Tokyo
+the capital of Jersey is St. Helier
+the capital of Jordan is Amman
+the capital of Kazakhstan is Astana
+the capital of Kenya is Nairobi
+the capital of Kiribati is Tarawa
+the capital of Kosovo is Pristina
+the capital of Kuwait is Kuwait City
+the capital of Kyrgyzstan is Bishkek
+the capital of Laos is Vientiane
+the capital of Latvia is Riga
+the capital of Lebanon is Beirut
+the capital of Lesotho is Maseru
+the capital of Liberia is Monrovia
+the capital of Libya is Tripoli
+the capital of Liechtenstein is Vaduz
+the capital of Lithuania is Vilnius
+the capital of Luxembourg is Luxembourg
+the capital of Macedonia is Skopje
+the capital of Madagascar is Antananarivo
+the capital of Malawi is Lilongwe
+the capital of Malaysia is Kuala Lumpur
+the capital of Maldives is Malé
+the capital of Mali is Bamako
+the capital of Malta is Valletta
+the capital of Marshall Islands is Majuro
+the capital of Mauritania is Nouakchott
+the capital of Mauritius is Port Louis
+the capital of Mexico is Mexico City
+the capital of Moldova is Chisinau
+the capital of Monaco is Monaco
+the capital of Mongolia is Ulaanbaatar
+the capital of Montenegro is Podgorica
+the capital of Montserrat is Plymouth
+the capital of Morocco is Rabat
+the capital of Mozambique is Maputo
+the capital of Myanmar is Naypyidaw
+the capital of Nagorno-Karabakh Republic is Stepanakert
+the capital of Namibia is Windhoek
+the capital of Nauru is Yaren
+the capital of Nepal is Kathmandu
+the capital of Netherlands is Amsterdam
+the capital of New Caledonia is Nouméa
+the capital of New Zealand is Wellington
+the capital of Nicaragua is Managua
+the capital of Niger is Niamey
+the capital of Nigeria is Abuja
+the capital of Niue is Alofi
+the capital of Norfolk Island is Kingston
+the capital of North Korea is Pyongyang
+the capital of Northern Cyprus is Nicosia
+the capital of United Kingdom Northern Ireland is Belfast
+the capital of Northern Mariana Islands is Saipan
+the capital of Norway is Oslo
+the capital of Oman is Muscat
+the capital of Pakistan is Islamabad
+the capital of Palau is Ngerulmud
+the capital of Palestine is Jerusalem
+the capital of Panama is Panama City
+the capital of Papua New Guinea is Port Moresby
+the capital of Paraguay is Asunción
+the capital of Peru is Lima
+the capital of Philippines is Manila
+the capital of Pitcairn Islands is Adamstown
+the capital of Poland is Warsaw
+the capital of Portugal is Lisbon
+the capital of Puerto Rico is San Juan
+the capital of Qatar is Doha
+the capital of Republic of China (Taiwan) is Taipei
+the capital of Republic of the Congo is Brazzaville
+the capital of Romania is Bucharest
+the capital of Russia is Moscow
+the capital of Rwanda is Kigali
+the capital of Saint Barthélemy is Gustavia
+the capital of Saint Helena is Jamestown
+the capital of Saint Kitts and Nevis is Basseterre
+the capital of Saint Lucia is Castries
+the capital of Saint Martin is Marigot
+the capital of Saint Pierre and Miquelon is St. Pierre
+the capital of Saint Vincent and the Grenadines is Kingstown
+the capital of Samoa is Apia
+the capital of San Marino is San Marino
+the capital of Saudi Arabia is Riyadh
+the capital of Scotland is Edinburgh
+the capital of Senegal is Dakar
+the capital of Serbia is Belgrade
+the capital of Seychelles is Victoria
+the capital of Sierra Leone is Freetown
+the capital of Singapore is Singapore
+the capital of Sint Maarten is Philipsburg
+the capital of Slovakia is Bratislava
+the capital of Slovenia is Ljubljana
+the capital of Solomon Islands is Honiara
+the capital of Somalia is Mogadishu
+the capital of Somaliland is Hargeisa
+the capital of South Africa is Pretoria
+the capital of South Georgia and the South Sandwich Islands is Grytviken
+the capital of South Korea is Seoul
+the capital of South Ossetia is Tskhinvali
+the capital of South Sudan South Sudan is Juba
+the capital of Spain is Madrid
+the capital of Sri Lanka is Sri Jayawardenapura Kotte
+the capital of Sudan is Khartoum
+the capital of Suriname is Paramaribo
+the capital of Swaziland is Mbabane
+the capital of Sweden is Stockholm
+the capital of Switzerland is Bern
+the capital of Syria is Damascus
+the capital of São Tomé and Príncipe is São Tomé
+the capital of Tajikistan is Dushanbe
+the capital of Tanzania is Dodoma
+the capital of Thailand is Bangkok
+the capital of Togo is Lomé
+the capital of Tonga is Nukuʻalofa
+the capital of Transnistria is Tiraspol
+the capital of Trinidad and Tobago is Port of Spain
+the capital of Tristan da Cunha is Edinburgh of the Seven Seas
+the capital of Tunisia is Tunis
+the capital of Turkey is Ankara
+the capital of Turkmenistan is Ashgabat
+the capital of Turks and Caicos Islands is Cockburn Town
+the capital of Tuvalu is Funafuti
+the capital of Uganda is Kampala
+the capital of Ukraine is Kiev
+the capital of United Arab Emirates is Abu Dhabi
+the capital of United Kingdom; England is London
+the capital of United States is Washington, D.C.
+the capital of United States Virgin Islands is Charlotte Amalie
+the capital of Uruguay is Montevideo
+the capital of Uzbekistan is Tashkent
+the capital of Vanuatu is Port Vila
+the capital of Vatican City is Vatican City
+the capital of Venezuela is Caracas
+the capital of Vietnam is Hanoi
+the capital of Wales is Cardiff
+the capital of Wallis and Futuna is Mata-Utu
+the capital of Western Sahara is El Aaiún
+the capital of Yemen is Sanaá
+the capital of Zambia is Lusaka
+the capital of Zimbabwe is Harare

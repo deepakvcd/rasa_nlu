@@ -1,0 +1,6411 @@
+having Unspecified:4
+[D]Fever NEC.:9
+IgM. I've:8
+suffering Postpartum:2
+yellow:288
+Ossa fever.:9
+-RETIRED-.:63
+the Sabia:2
+pericarditis. Had:3
+have Diphasic:2
+Unspecified Boutonneuse:18
+having Diphasic:2
+the Meningococcal:2
+have Nairovirus:6
+Western:54
+had Meningitis:8
+having Tick-borne:62
+aphthous stomatitis:18
+having Adenoviral:4
+from Paratyphoid:15
+had Factitious:4
+Ab. I'm:2
+had Chills:4
+NEC (situation).:9
+had Potomac:4
+suffering Marburg:2
+education. I'm:1
+suffering Falling:2
+(allergic rhinitis):18
+had Glandular:14
+have Sabia:4
+Mayaro fever:9
+Western North:18
+fever]) (disorder).:9
+suffering Transit:1
+suffering Bussuquara:1
+from Neutropenic:1
+Mosquito-borne rhabdovirus:27
+GRO:9
+substance:9
+dust]. I've:1
+Texas fever:9
+NOS:261
+Thrombocytopenia:9
+tick virus:36
+Three:9
+having Cat-scratch:2
+have Guaitara:2
+the Adenoviral:2
+Rapid fall:18
+or [Bolivian]:9
+Crimean-Congo. I:12
+recon)+diluent (product).:9
+have Deerfly:2
+having Sylvatic:2
+had (OS:8
+level.:18
+from Rodent-borne:3
+Mycoplasmal postpartum:18
+having Human:4
+had Vesicular:2
+type.:18
+[trachoma]) (disorder).:9
+poisoning (event).:18
+suffering Germistan:1
+the Gradual:4
+from Bebaru:2
+had Trench:4
+flavivirus fever.:9
+Banzi fever.:9
+had Administration:4
+Nairovirus serogroup:27
+have O'nyong-nyong:4
+Zika:9
+A:18
+the Feverish:2
+disease. I'm:2
+from AIDS:2
+[O/E]:9
+from Recrudescent:1
+from Argentine:4
+types:9
+suffering Chills:2
+Rabbit fever.:9
+from Hemoglobinuric:1
+infection. I've:4
+fever (disorder).:1701
+had Ilesha:2
+postpartum fever:9
+the Amyloid:4
+have Chills:4
+Yellow fever.:18
+Yellow fever,:9
+Mediterranean fever:27
+Guaitara:9
+Paraneoplastic:18
+[yellow fever]):9
+Asthma: [extrinsic:18
+had On:124
+having Pericarditis:4
+antigen. I've:4
+Urban yellow:18
+have Intentional:6
+the Guaroa:1
+Glandular fever:54
+the Uganda:2
+the Postpartum:2
+- fever.:18
+[yellow:18
+Family history::27
+106 degrees:9
+Carditis:18
+having Meningitis:8
+(event). I'm:2
+disease. I:12
+rapid rise.:9
+Ephemeral:45
+fever NOS:162
+Tick-borne fever.:18
+Examination of:18
+Mite-borne haemorrhagic:9
+autumnalis. I:6
+Rabbit:9
+had Milk:6
+from Uruma:1
+had Katamaya:2
+had Mill:4
+from Lone:3
+suffering Malta:1
+screening test.:27
+reaction to:27
+suffering Picket:1
+having South:12
+had Remittent:4
+- Korean:18
+from Deerfly:1
+the Argentinian:4
+the Germiston:1
+with sweating:18
+sandfly:27
+fall-lysis.:18
+Fever, thrombocytopenia,:18
+from Monday:2
+Human:18
+(organism). I'm:23
+rhabdovirus:45
+Dum:18
+having Nepuyo:2
+suffering Uruma:1
+to Streptobacillus:9
+had Shipping:6
+having Mite-borne:8
+Monday morning:9
+[pretibial]).:9
+Russian hemorrhagic:9
+Mucambo fever.:9
+had Anti-Ephemeral:2
+Seven day:9
+antigen. I'm:4
+suffering Pericarditis:2
+Bartonella:9
+product. I've:2
+suffering Chapare:2
+had Arthritis:2
+value). Had:2
+moniliformis. Had:1
+pneumonia:9
+[X]Other spotted:18
+seizure.:9
+management. I've:1
+the Dum-dum:1
+Postprocedural:18
+(fever). I:6
+valvulitis. I'm:2
+from Grain:2
+Queensland fever.:9
+0.5unts/dose powder.:9
+Ribonucleic:36
+Typhoid/paratyphoid:9
+Everglades:9
+seizure. I've:1
+the Erythema:2
+have Splenic:2
+suffering Black:2
+having Omsk:12
+from Marseilles:1
+Viral fever.:9
+Arbovirus:36
+suffering Bancroftian:2
+100.4:18
+suffering Tumour:1
+the Rock:1
+having Calovo:2
+Burdwan fever.:9
+having Streptobacillary:6
+from Reversed:2
+Accidental yellow:27
+from (OS:4
+caused by:153
+Arenaviral haemorrhagic:9
+vaccination.:72
+Valley Fever.:9
+Postvaccination fever.:9
+from Mayaro:2
+Postprocedural fever.:9
+Restan fever.:9
+Malarial fever:9
+suffering Tahyna:2
+Nepuyo:9
+Katamaya:9
+having Izumi:4
+rise. I'm:6
+having Ribonucleic:7
+Factitious fever:9
+moniliformis. I:6
+Mayaro:18
+having Inkoo:2
+level. Had:2
+Epidemic:18
+patch:36
+Rio:27
+fast fall-crisis:27
+from Anti-Rickettsia:2
+Transport fever.:9
+having Breakbone:2
+having Metal-fume:4
+having Finding:8
+concept). Had:22
+0.5units/dose powder:9
+osteomyelitis. I:6
+Neonatal fever,:9
+Neonatal fever.:9
+serogroup Crimean-Congo:27
+Vesicular stomatitis:9
+have (OS:8
+have Metal:8
+leukopenia syndrome.:9
+Thrombocytopenia Syndrome.:9
+- fever-gradual:45
+(qualifier value).:18
+Caucasus:9
+have Hypothalamic:2
+scrub typhus:9
+from Acute:16
+have Acute:32
+Congo-Crimean hemorrhagic:18
+hepatitis. I:6
+Endocarditis:18
+with pharyngitis:18
+from Severe:2
+Nanukayami:9
+C bunyavirus:27
+Caraparu fever.:9
+BPF:9
+Francisella,:18
+Swamp fever.:18
+Acute:153
+eastern:18
+(context-dependent:270
+Rat bite:27
+had Hemoglobinuric:2
+Aseptic fever:9
+chill:9
+from RR:1
+group virus:135
+from RB:1
+with fever:45
+from Mucambo:2
+from O'nyong-nyong:2
+subgroup,:9
+subgroup.:9
+Sennetsu fever:9
+having RhF:2
+Potomac:18
+Fever, scrub:9
+[D]Chills:27
+Pretibial fever.:9
+have Lysis:2
+remittent. I've:2
+tetanus vaccination:18
+encephalitis.:27
+Postprocedural fever:9
+suffering Deer:1
+the Anti-Rift:3
+encephalitis):18
+from Changuinola:1
+having Bovine:16
+encephalitis]:18
+NAD. I:12
+typhoid:90
+suffering [X]Rat-bite:2
+IV (disorder).:9
+from Pharyngoconjunctival:1
+Caraparu:9
+from Bhanja:1
+endocarditis. Had:3
+Bussuquara fever.:18
+from Mite-borne:4
+from Fever:46
+had Metal:8
+North America.:9
+antitoxin. Had:3
+test substance:9
+with endocarditis.:18
+suffering Germiston:1
+do have:1608
+Fever defervescence:9
+water fever.:27
+had:3216
+AND/OR Mexico.:18
+hay:90
+from CDU:1
+Tensaw fever.:9
+suffering Aphthus:1
+Zika fever.:9
+hepatic fever:9
+Postvaccination:9
+the Fog:1
+[fever]:18
+Recurrent fever,:9
+Recurrent fever.:9
+dengue:18
+Cat-bite:18
+had Irregular:4
+suffering Rabbit:1
+fever myocarditis.:9
+flavivirus:99
+for:108
+having Pattern:6
+have Anti-Rickettsia:4
+hyper-IgD periodic:9
+having Typhoid/paratyphoid:2
+the Injection:1
+ribonucleic acid.:9
+the Tataguine:1
+Sheep-associated malignant:18
+from Tumour:1
+with renal:81
+value). I'm:2
+America. I've:6
+the Irregular:2
+- Fever,:18
+have Disorder:4
+cloth. Had:1
+Trivittatus:18
+[enteric]:9
+Ab. I:12
+Korean:54
+Serogroup Crimean-Congo:18
+fever -RETIRED-.:45
+[pretibial]). I'm:1
+concept).:198
+or [childhood]:18
+rise. I:36
+have WSL:2
+NOS. Had:48
+from Lahore:1
+[Ambiguous]. Had:9
+have ARF:2
+after procedure.:9
+[with hay:18
+virus fever.:45
+Metal-fume:18
+patch test:36
+immunization. I've:2
+[D]Chills with:27
+having Russian:4
+[Dengue].:18
+had Caraparu:2
+Feverfew. Had:1
+having Copper:4
+had Dehydration:4
+- Rocky:9
+having Harvest:2
+[enteric]. Had:1
+fever vaccination.:63
+from Zinga:1
+having Disorder:4
+intent:9
+BSQ -:9
+suffering Pel-Ebstein:1
+Gardens:9
+Severe Fever:9
+Marburg. I'm:2
+have Sandfly-borne:16
+orbivirus fever:45
+pertussis vaccination:36
+had FTLS:4
+having Sennetsu:4
+Indiana:9
+the Spirillary:3
+having GRO:2
+from Anti-Colorado:2
+of hay:27
+WSL -:9
+NAD. Had:2
+Immunoglobulin:144
+Gradual rise:18
+the Arthritis:1
+had Typhoid:12
+Antigen of:72
+[fever]). I:6
+vaccination fever.:45
+have Phlebotomus:6
+from [X]Rat-bite:2
+Tumor necrosis:36
+from GF:1
+Calovo:18
+(situation). Had:20
+suffering Charcot's:1
+Fort Bragg:18
+suffering Staircase:2
+(product). I:54
+irregular.:18
+illness (fever).:9
+Haverhill:9
+from Hayfever.:1
+OHF -:18
+Nepuyo fever.:9
+dust]:9
+IgM. I'm:8
+finding.:18
+having Marituba:2
+have Hayfever.:2
+suffering Aseptic:2
+suffering Plateau:2
+have [Temperature]:4
+Etiocholanolone fever.:9
+[verruga:18
+from [Temperature]:2
+from Unspecified:2
+(& [Carrion's:18
+outbreak education.:9
+Malignant catarrhal:27
+cerebrospinal fever.:9
+from Quartan:2
+I also:1608
+newborn. I:18
+detected. I:6
+suffering Tumor:4
+australis.:9
+Recurrent rheumatic:18
+from Education:2
+[named:18
+suffering Mud:1
+unspecified allergen.:18
+Hepatitis in:18
+Typhoid &/or:18
+PUO:18
+specified mosquito-borne:18
+the Paraneoplastic:2
+management. I'm:1
+having BPF:2
+meningitis.:9
+AHF -:18
+the Tumour:1
+(allergic:18
+suffering East:1
+having Hemoglobinuric:2
+from FH::2
+had Ebola:8
+had Lahore:2
+co-occurrent and:18
+measurement. I'm:3
+[Argentine]:27
+contraindicated:9
+vaccine (disorder).:36
+had Feverfew.:2
+Maguari:18
+fever, unspecified.:81
+rhinitis):18
+from Other:19
+have Chapare:4
+AIDS. I:6
+or [pretibial]):9
+having Familial:6
+have Ephemeral:6
+Shipping fever:9
+defervescence. I've:1
+from Sandfly-borne:8
+antitoxin. I'm:3
+0.5mL:9
+had Kedani:4
+virus. I've:62
+Yellow:549
+have ONN:2
+the Louse-borne:4
+arboviral:54
+the FTLS:2
+from Bartonellosis:2
+the [Temperature]:2
+have Mycoplasmal:8
+from Spirillary:3
+Kunjin fever:9
+(situation). I've:20
+suffering Neonatal:2
+arthropod-borne hemorrhagic:45
+from Rising:2
+fluke fever:9
+Rodent-borne:27
+have Junin:4
+AIDS. Had:1
+had Wyeomyia:2
+from Tick-borne:31
+South Africa:9
+the Rickettsia:17
+the Remittent:2
+having Machupo:4
+having Fog:2
+had Malayan:4
+the [X]Paratyphoid:2
+[Fort:18
+have Adenoviral:4
+Brass-founders' fever.:9
+Hay fever:108
+suffering Calovo:1
+I was:4824
+Monday:18
+subgroup. Had:1
+bite:45
+(HIDS). I:6
+Serogroup:36
+Fever caused:18
+have Machupo:4
+Caucasus. I:6
+Plateau phase:18
+Quotidien fever:9
+the Simian:6
+having O/E:80
+History:153
+Seven:9
+suffering Classical:5
+the Hyper-IgD:3
+having Valley:2
+have Murutuca:2
+25micrograms injection:9
+Ebola.:18
+have FH::4
+have Murutucu:2
+from Pel-Ebstein:1
+illness:9
+or [Dengue].:18
+the History:17
+having Canicola:4
+from Kunjin:2
+had Familial:6
+Viral hemorrhagic:72
+have Humidifier:4
+from Hyper-IgD:3
+the Bolivian:6
+have Rio:4
+Banzi:9
+infection.:36
+the HFRS:2
+having Sustained:2
+Sweating fever:18
+have Hepatitis:4
+having Guama:2
+quintana. Had:2
+had India:6
+have RR:2
+feverish. I:18
+Classical swine:81
+fever pneumonia:9
+managing:18
+have RB:2
+[X]Arthropod-borne viral:27
+having Uganda:4
+fast rise.:9
+encephalitis (disorder).:27
+by SF-Sicilian:9
+exanthematous fever:9
+Fever defervescence.:9
+Anti-Rift:27
+Mediterranean fever.:54
+by fever.:18
+the Hemoglobinuric:1
+filarial:54
+North Africa:18
+Myocarditis:18
+suffering Colorado:13
+Humidifier fever.:9
+having Picket:2
+suffering ITQ:1
+[hay:18
+aseptic meningitis.:9
+having Boutonneuse:6
+measures. I'm:1
+injection (substance).:9
+Paratyphoid fever:63
+bunyavirus hemorrhagic:54
+Lassa hemorrhagic:9
+having KHF:4
+Katayama fever:18
+Fever virus:18
+acute rise.:18
+having Pel-Ebstein:2
+had Reversed:4
+Leptospira autumnalis.:9
+have Remittent:4
+suffering Feeling:2
+Adenoviral:18
+suffering CTF:1
+from Factitious:2
+RB -:9
+affecting:9
+Marburg. Had:2
+high risk:18
+having Carditis:4
+Fever. I've:2
+from Absence:1
+group rickettsia:36
+[arenaviral] or:27
+have Cardiac:6
+vaccine.:63
+Russian haemorrhagic:9
+the Neonatal:2
+have Rickettsia,:4
+group, NOS.:18
+NOS (disorder).:108
+have Continuous:4
+the Streptobacillary:3
+virus protease.:9
+have Rickettsia:34
+of glandular:36
+had Thogoto:2
+have Recurrent:10
+continuous. I:12
+have [X]Spotted:4
+Adenoviral pharyngoconjunctival:9
+had Immunoglobulin:32
+screening. I:6
+asthmaticus) (disorder).:9
+Tertian:18
+the Canicola:2
+lymphadenitis syndrome:9
+having Polymer:4
+fever not:18
+rigors.:9
+had Periodic:10
+vial.:9
+tick. I've:1
+had Marituba:2
+Milk fever.:27
+pericarditis:9
+Recurrent:45
+having Blackwater:2
+by Lujo:27
+management.:9
+titer:18
+Uukuniemi group:9
+river fever:36
+Monday fever.:9
+from Swinging:2
+I:11265
+virus antibody.:99
+(HIDS).:9
+and Mexico.:9
+having Marshall:2
+had Query:2
+method temperature:18
+Mediterrean fever.:9
+Neapolitan:18
+from Oroya:2
+nodule. I:6
+defervescence. I:6
+Streptobacillary:27
+have CUO:2
+NAD:27
+Neutropenic fever.:9
+origin co-occurrent:9
+suffering Neutropenic:1
+dust]. Had:1
+had Burdwan:2
+Hay fever.:27
+Semliki forest:18
+Crimean-Congo:135
+Feverfew:45
+Harvest:9
+have Ebola:8
+from Lassa:4
+had Five:2
+Rock fever.:9
+suffering Q:23
+from Haemorrhagic:14
+suffering Mucambo:2
+Nile:45
+vaccination. I'm:8
+from Far:2
+(&:108
+recon)+diluent:9
+Metal fever,:9
+Metal fever.:9
+protease. I've:1
+had Pontiac:4
+suffering [X]Relapsing:2
+from Orungo:1
+the RR:1
+alphavirus fever.:9
+had Tahyna:4
+the RB:1
+glandular fever.:36
+having Quintan:2
+Valley fever:27
+- Itaqui:9
+the Spondweni:2
+have [X]Unspecified:12
+the North:5
+Borrelia. I've:2
+from Colorado:13
+had GMA:2
+have Saddleback:2
+suffering Malayan:2
+to infection:9
+from Diphasic:1
+had Kunjin:4
+Pahvant:9
+Lone star:27
+from Arenaviral:4
+0.5unts/dose powder:9
+the Canine:2
+irregular. Had:2
+the Potomac:2
+having Ephemeral:6
+Peninsula:27
+the Arthropod-borne:8
+had Allergy::4
+III. Had:2
+having Arthritis:2
+with:540
+Seven-day:9
+the Pappataci:1
+KHF -:18
+vaccine. I:42
+Calovo fever.:18
+had Abattoir:2
+product (product).:9
+Phlebotomus fever:18
+for yellow:27
+suffering Newcastle:1
+had Hyperimmunoglobulin:4
+(& fever).:18
+European swine:9
+the Pahvant:1
+of Central:54
+acid.:9
+having Undulant:4
+from [V]Screening:6
+Cyclic:9
+Mexico,:45
+Mexico.:27
+continuous (context-dependent:9
+have Louse-borne:8
+have (Milk:4
+[X]Unspecified:54
+RVF -:9
+Deoxyribonucleic acid:36
+or [hay:18
+(HIDS). I've:1
+having Sandfly:44
+Filoviral:27
+[typhoid] or:18
+caused:153
+Malta fever.:9
+Fever 106:9
+have O/E:80
+Arthropod-borne hemorrhagic:36
+general (context-dependent:9
+infection. Had:4
+category). I:180
+suffering Recurrent:5
+from Malignant:5
+to:594
+or [pollen]:18
+Dugbe fever.:9
+purpuric:27
+suffering Pattern:3
+from Uveoparotid:1
+Copper:18
+have Bhanja:2
+have Fever::8
+have Rabbit:2
+having Western:4
+Wyeomyia:9
+from Sandfly:22
+from Post:12
+have Fever.:2
+have Fever,:4
+fever, Marburg.:18
+Childbed:9
+Febrile:36
+hot/feverish (finding).:9
+Chikungunya fever.:9
+[named animals:18
+the Haverhill:1
+Ossa:9
+or [verruga:18
+having Prolonged:4
+the Sennetsu:2
+(Lone star:18
+level. I'm:2
+had Requires:4
+Fever after:18
+Chronic rheumatic:18
+-RETIRED-. I've:7
+method:99
+vial (product).:9
+bunyamwera group:27
+the Recrudescent:1
+from Banzi:1
+the (Milk:2
+had TRAPS:2
+and Central:9
+RhF -:9
+having (Milk:4
+[Dengue]. I:12
+had Parrot:4
+from Neutropaenic:1
+and Northwest:9
+had Accidental:6
+Pontiac fever.:9
+suffering Metal:4
+Hereditary:18
+the Rodent-borne:3
+fever: [mosquito]:27
+substance.:9
+Germistan:9
+from Sennetsu:2
+(& fever):18
+value). I:12
+psitacci. I've:1
+having Feverfew.:2
+Russian:18
+have Deoxyribonucleic:8
+Isfahan fever.:9
+or over.:18
+suffering Itaqui:1
+for hemorrhagic:9
+of] or:18
+the Guanarito:2
+Family history:27
+having Urban:4
+Viral:144
+[Chikungunya] or:27
+had Feels:10
+treatment.:9
+having Character:2
+vaccination. Had:8
+having Cough:4
+having Grain:4
+Venezuelan:54
+having Parrot:4
+Arthritis due:9
+powder. I:12
+marginatum in:18
+Oriboca:9
+Prolonged fever:9
+suffering Antibody:4
+Wood tick:9
+having Brazilian:14
+suffering Scarlet:4
+have Query:2
+the Polymer:2
+animal products]:18
+asthma. I'm:1
+moniliformis. I've:1
+had Venezuelan:12
+Fast fall:9
+Junin hemorrhagic:9
+having Oropouche:2
+suffering Batai:2
+having Paratyphoid:30
+the Timorian:2
+had RhF:2
+have Typhoid/paratyphoid:2
+measures.:9
+symptoms:18
+having FH::4
+Feels feverish.:18
+Spondweni fever.:9
+having Bartonellosis:4
+the Three:1
+had Splenic:2
+symptoms. I:12
+having Post:24
+have BSQ:2
+had Tumor:8
+Antigen:72
+suffering Rapid:2
+syringe. Had:1
+Syndrome. I've:1
+have Katamaya:2
+have Arthritis:2
+from Streptobacillary:3
+had Notification:8
+fever). I've:5
+the Zinga:1
+group (substance).:45
+toxin. I've:1
+had Pyrexia:2
+measurement:9
+have Plateau:4
+suffering Madrid:1
+Ross:45
+had Aphthous:2
+from Murutucu:1
+suffering Changuinola:1
+from Murutuca:1
+fever (disorder):36
+vaccine. Had:7
+suffering Elephantoid:1
+fever immunisation.:18
+have Active:16
+grade I:9
+Viral haemorrhagic:63
+suffering Biphasic:2
+have Pyrexia:2
+(OS leptospiral:18
+Dromedary fever.:9
+Endocarditis -:18
+suffering Arthritis:1
+the Grain:2
+have Mite-borne:8
+Kedani:18
+alphavirus:63
+sheep. I've:1
+having Murutucu:2
+Myocarditis due:18
+had AHF:4
+chlamydial disease:18
+had South:12
+Marburg. I've:2
+have Wesselsbron:4
+Spelters' fever.:9
+fever syndrome:63
+having Murutuca:2
+Crimean hemorrhagic:36
+the Tahyna:2
+from BHF:2
+Bragg fever.:18
+from Gibraltar:1
+fever, louse-borne.:9
+Neonatal:18
+from ITQ:1
+Lujo virus.:18
+have Semliki:4
+syringe.:9
+the [D]Chills:3
+- acute:45
+tick-borne haemorrhagic:18
+vaccination encephalitis:9
+the Kunjin:2
+atopic] or:18
+the Aphthus:1
+having [X]Yellow:4
+having Neapolitan:4
+suffering Guanarito:2
+remittent (context-dependent:9
+Tahyna fever.:9
+the Absence:1
+suffering Machupo:2
+abnormality detected.:9
+Adverse:45
+category).:270
+Chandipura:9
+have Postpartum:4
+had Amyloid:8
+Nairovirus:27
+vaccine poisoning.:27
+also:3216
+have Mediterranean:8
+African tick:36
+M:72
+virus:1080
+Grain:18
+Hyper-IgD:27
+[trachoma]). I've:1
+having Crisis:2
+had Seven-day:2
+having Newcastle:2
+having Gibraltar:2
+intent. Had:1
+from Pyrexia:1
+Had:1608
+Phase of:27
+Hay:135
+from Chills:2
+having Monday:4
+titre.:9
+[acute]). Had:1
+allergen patch:36
+having Malta:2
+the Nairovirus:3
+from Marburg:2
+the Blackwater:1
+suffering Catu:1
+postabortal fever:9
+factor:45
+had WN:2
+the Other:19
+from Hartebeest:1
+Ebstein fever:9
+had Bussuquara:2
+nodule. I've:1
+Manzanilla fever:9
+allergen:63
+have Lone:6
+poisoning (disorder).:18
+have SFTS:2
+Southern United:18
+injection. I:6
+[enteric].:9
+antibody titre:9
+river:63
+had Dum-dum:2
+think I:1608
+25micrograms:9
+having Filoviral:6
+the Viral:14
+had Everglades:2
+Fog:9
+AND/OR Africa:9
+Haemoglobinuric fever.:9
+suffering Junin:2
+Pontiac:18
+fever (procedure).:45
+had Sindbis:4
+had Batai:4
+Mountain spotted:99
+- intermittent:27
+having Arthropod-borne:16
+fever) (disorder).:36
+had Humidifier:4
+suffering Rat:3
+degrees C:9
+pneumonia. I've:2
+degrees F:9
+had Sepik:4
+IgG.:72
+Query:9
+pharygoconjunctival:9
+from HIDS:1
+spotted fever,:9
+spotted fever.:72
+Five day:9
+the FH::2
+having Arboviral:4
+suffering Marituba:1
+[Temperature]:18
+[acute]) (disorder).:9
+Tick-borne haemorrhagic:9
+AND/OR Central:18
+America. I'm:6
+Quaranfil tick:9
+Queensland:9
+have (Hay:8
+[O/E]. I'm:1
+prefilled syringe.:9
+had Far:4
+Congo hemorrhagic:36
+Wesselsbron fever:9
+spotted fevers:9
+forest fever:9
+having Kemerovo:4
+Biphasic fever.:9
+RNA. Had:3
+Fever with:72
+from [X]Unspecified:6
+Pyrexia due:9
+WSL:9
+hot/feverish. Had:1
+hemorrhagic fevers:27
+the Junin:2
+had Crisis:2
+pharygoconjunctival fever.:9
+the Ganjam:1
+Mayaro fever.:9
+Rocky Mountain:108
+suffering Hypothalamic:1
+suffering Articular:2
+newborn. I'm:3
+management. Had:1
+Spirillary rat-bite:9
+NAD (context-dependent:9
+have Infusion:2
+the Zika:1
+U.S.,:27
+Character of:9
+hemorrhagic fever,:171
+hemorrhagic fever.:558
+dengue fever:9
+Brazilian hemorrhagic:18
+symptoms. Had:2
+Asian haemorrhagic:9
+the Sindbis:2
+Typhoid fever.:9
+having Severe:4
+suffering Bhanja:1
+Splenic fever.:9
+Rat-bite:45
+involvement. I:36
+the Spring:1
+Congo:63
+Batai fever.:9
+- finding.:18
+test. I:18
+had [D]Fever:14
+fever pharyngitis:9
+syndrome -RETIRED-.:18
+have [V]Yellow:6
+the Caucasus.:9
+Picket fence:9
+intermittent (context-dependent:9
+Kedani fever.:9
+suffering Filoviral:3
+Murutucu fever.:9
+sweating. I've:1
+having Rheumatic:22
+[X]Paratyphoid fever,:18
+Syndrome.:9
+On:558
+fever antibody.:9
+the Metal:4
+suffering:3216
+Crimean fever.:9
+suffering Sustained:1
+from Black:2
+suffering Diphasic:1
+from Anti-Rift:3
+having Timorian:4
+having HFRS:4
+dog tick:27
+protease. Had:1
+have Malayan:4
+Malarial fever.:9
+disorder:18
+having CTF:2
+from Irregular:2
+have Seven-day:2
+fever-gradual fall-lysis.:18
+(pdr for:18
+bunyavirus haemorrhagic:18
+IV.:18
+Fahrenheit:9
+involvement (disorder).:18
+from [D]Fever:7
+have Queensland:2
+had Staircase:4
+had Epidemic:4
+Parrot fever:9
+from Simian:6
+Familial:45
+cloth. I'm:1
+rise. Had:6
+have Paraneoplastic:4
+from Examination:2
+have Uganda:4
+by:189
+rheumatic fever:252
+Allergy: [allergic:18
+co-occurrent:27
+have Marseilles:2
+measurement,:18
+Anti-Yellow fever:18
+measurement.:27
+Lysis:9
+suffering Carditis:2
+Glandular fever.:18
+from Parrot:2
+NEC:18
+C fever.:9
+specified viral:27
+Central fever.:9
+[swamp] or:18
+yellow fever:234
+fever, Crimean-Congo.:18
+[pretibial]). I:6
+Brass fever.:9
+Three day:9
+fever examination:63
+general. I:12
+feverish. Had:3
+HFRS:18
+Pneumonia:36
+Rickettsia rickettsii:18
+from Ebola:4
+have Rock:2
+from Boutonneuse:3
+the American:2
+MEF:9
+Cat-bite fever.:9
+Africa:45
+suffering Korean:4
+- glandular:27
+suffering Bolivian:6
+Argentinian hemorrhagic:27
+Sustained fever.:9
+Mosquito-borne serogroup:27
+have OHF:4
+the Manzanilla:2
+Apeu:9
+Meningitis caused:18
+have African:26
+having Manzanilla:4
+Prolonged fever.:9
+Itaqui:18
+I do:1608
+or [Japanese:18
+finding. I've:2
+(& [fever]).:9
+peruana]) (disorder).:9
+horse fever.:9
+had Recrudescent:2
+Far eastern:18
+Falling phase:18
+Calchaqui fever.:9
+Childbed fever.:9
+suffering Mite-borne:4
+Diphasic:9
+suffering Accidental:3
+scrub:18
+valley. I've:2
+have Hay:20
+Fahrenheit. I'm:1
+Leptospira:9
+having European:2
+a yellow:18
+entity).:18
+Malignant:45
+having:3216
+from Malarial:2
+having Aphthus:2
+scratch:27
+U.S. and:9
+having Relapsing:88
+from Antibody:4
+Uukuniemi fever:9
+antibody (substance).:45
+had Rodent-borne:6
+type. I've:2
+had [D]Chills:6
+Chikungunya haemorrhagic:9
+the At:4
+alphavirus hemorrhagic:27
+diurnal variation.:9
+the Pel:2
+without heart:18
+having Epidemic:4
+suffering (OS:4
+defervescence:9
+Yellow Fever:18
+Febrile agglutinins:18
+Factitious:18
+suffering Dum:1
+[examination:18
+the Scarlet:4
+from Feels:5
+Other mosquito-borne:36
+by Sandfly:18
+[pretibial]) (disorder).:9
+Pharyngoconjunctival:9
+Cyclic fever.:9
+fume fever.:18
+of newborn:9
+having WSL:2
+Arthropod-borne viral:18
+procedure. I:6
+suffering Canine:2
+guama:27
+infection. I'm:4
+had Texas:4
+[trachoma]). I:6
+from Fog:1
+- Dengue:18
+having [V]Screening:12
+fever antitoxin.:27
+had San:4
+had Sao:4
+Mountain:108
+Hyper-immunoglobulin:18
+symptoms. I'm:2
+had Piry:2
+(TRAPS). I:6
+from Japanese:3
+the Germistan:1
+Suspected:36
+from Sweating:3
+having Anti-Ephemeral:2
+the Meningitis:4
+animals:18
+have Five:2
+Shuni fever.:9
+haemorrhagic fever:181
+having North:10
+sweating (qualifier:9
+Mycoplasmal postabortal:18
+the Itaqui:1
+high:18
+Catu:9
+reaction caused:18
+[pretibial]). Had:1
+have Neapolitan:4
+Chapare haemorrhagic:9
+fall-lysis. I:12
+had Tensaw:2
+having Guaroa:2
+had Boutonneuse:6
+characterised by:9
+Valley Fever:9
+suffering Ephemeral:3
+Q:306
+of African:18
+having Guanarito:4
+Fever. Had:2
+Uveoparotid fever.:9
+from Bancroftian:2
+had Guaroa:2
+DNA. Had:2
+Chronic fever.:9
+fever]. Had:1
+arboviral fever:27
+Paratyphoid:135
+degrees:18
+having Spiking:4
+having American:4
+animal:18
+having [X]Spotted:4
+Katayama:27
+antibody. I'm:15
+Ebola. I:12
+Sao:18
+San:18
+the Transit:1
+the Arboviral:2
+petechial fever.:9
+had Zinga:2
+titre measurement.:9
+pollens. I:6
+having Tumor:8
+Saddleback:9
+have Dugbe:2
+South America.:45
+O'nyong-nyong:27
+conjunctivitis (disorder).:9
+Education about:18
+Asia AND/OR:18
+simbu group:27
+South American:36
+the Cough:2
+from Tacaiuma:1
+had ITQ:2
+having MEF:2
+had Transfusion:2
+chills:9
+Bhanja fever.:9
+fevers. I:78
+Severe fever:18
+suffering Fast:1
+suffering Splenic:1
+from Copper:2
+protease. I'm:1
+the newborn:9
+- Calovo:9
+Iran:27
+[X]Rat-bite fever,:18
+Eastern:18
+the GRO:1
+had Bwamba:2
+from Allergy::2
+rise (finding).:36
+from [X]Spotted:2
+have Swinging:4
+Argentine hemorrhagic:18
+the Madrid:1
+had Relapsing:88
+have Absence:2
+the Bartonellosis:2
+Classical:81
+Fever management.:9
+having Splenic:2
+(TNF) receptor-associated:27
+cold. I've:1
+ITQ:9
+had Grain:4
+asthmaticus). I:6
+with infection.:9
+from Bunyamwera:1
+having Feverish:4
+have Chandipura:2
+suffering Prolonged:2
+have Copper:4
+have Examination:4
+Reversed:18
+suffering [X]Paratyphoid:2
+the Severe:2
+the [X]Unspecified:6
+or [O/E]:9
+had Chapare:4
+having Drug:4
+vaccine (product).:27
+had [X]Rat-bite:4
+suffering [D]Persistent:3
+having Marburg:4
+from Indiana:1
+Piry:9
+suffering Query:1
+Peninsula and:9
+(from:9
+remittent.:18
+- gradual:45
+having Ross:8
+had Shuni:2
+(& [acute]).:9
+Trench fever.:9
+having [D]Persistent:6
+test. Had:3
+- Brazilian:9
+Argentine. I:12
+- hyper-IgD:9
+Swinging fever:9
+having Lujo:4
+defervescence. Had:1
+powder (product).:18
+Swinging fever.:9
+the Finding:4
+screening (procedure).:9
+familial:54
+suffering TRAPS:1
+from Nanukayami:1
+thrombocytopenia, and:18
+had Kemerovo:4
+suffering Brazilian:7
+the Dugbe:1
+suffering Paraneoplastic:2
+the Human:2
+Junin haemorrhagic:9
+Gibraltar fever.:9
+Marshall syndrome:9
+Paulo:18
+other allergen.:9
+had Post:24
+At low:18
+infection (finding).:9
+had [D]Persistent:6
+virus serology:27
+II. I:12
+Hemoglobinuric:9
+Reversed diurnal:18
+suffering Nanukayami:1
+fast fall-crisis.:18
+RNA. I:18
+suffering Transitory:2
+had Cat-scratch:2
+MEF -:9
+Celsius. Had:1
+allergen. I:18
+AIDS. I'm:1
+the Low:1
+feverish (finding).:9
+- other:18
+Asia and:9
+having Brass-founders':4
+acid (RNA):9
+petechial:18
+Mosquito-borne guama:27
+have Adverse:10
+Sabia:18
+have Severe:4
+Congo fever.:9
+from Epidemic:2
+had Semliki:4
+YF -:9
+Hectic:9
+Hyperimmunoglobulin D:18
+the Five:1
+suffering Otitis:2
+have TRAPS:2
+the Marseilles:1
+having Paraneoplastic:4
+having Fort:6
+Slightly:18
+of Asia:27
+or [enteric]:9
+Venezuelan hemorrhagic:18
+suffering Hazara:3
+from Russian:2
+blister. Had:1
+- Glandular:9
+having Hyper-immunoglobulin:4
+fever antitoxin:9
+grade III.:18
+from Prolonged:2
+the Calovo:1
+fever and:27
+fever).:45
+suffering Swamp:2
+disease. I've:2
+over. Had:2
+Feverfew. I'm:1
+Tensaw:9
+[childhood] or:18
+had Candiru:4
+had Aseptic:4
+outbreak:18
+had Bullis:2
+have Piry:2
+fever]). I've:1
+test. I've:3
+of]:18
+virus ribonucleic:36
+suffering Disorder:2
+the Uukuniemi:2
+have Haverhill:2
+substance (substance).:9
+diphtheria:18
+having Germistan:2
+from Queensland:1
+subgroup:9
+had Phlebotomus:6
+(situation).:180
+had Viral:28
+from Yellow:52
+sheep. I:6
+vaccine (substance).:27
+managing fever.:9
+from Staircase:2
+to Junin:18
+Shipping:27
+have Serogroup:8
+from Notification:4
+registered. I'm:2
+Pappataci:9
+entity). Had:2
+have Izumi:4
+had TNF:6
+by Chapare:27
+suffering Spirillary:3
+osteomyelitis. Had:1
+the (Hay:4
+disease (&:18
+pharyngitis. I'm:1
+the Education:2
+Pattern of:27
+having Postprocedural:4
+suffering Lysis:1
+have Grain:4
+from At:4
+water fever:9
+dust].:9
+hay fever.:36
+having O'nyong-nyong:4
+have Ribonucleic:8
+have Kew:2
+had Rickettsia,:4
+hay fever]:9
+have Rhabdoviral:4
+the Indiana:1
+had Cardiac:6
+M antibody:72
+having Chills:4
+Indiana fever.:9
+the Diphasic:1
+skin. I've:1
+the Elokomin:2
+NOS (context-dependent:54
+suffering Arbovirus:4
+NOS).:9
+the Chronic:6
+have Orungo:2
+have Finding:8
+having Myocarditis:4
+the [X]Mosquito-borne:2
+minus. Had:1
+[verruga peruana]):9
+group. I've:10
+- Rift:9
+Sylvatic:9
+the (OS:4
+III (disorder).:9
+Dum-dum fever.:9
+have Enteroviral:4
+or [O/E].:9
+suffering Brass-founders':2
+CUO -:9
+had Diphasic:2
+from Mycoplasmal:4
+virus (organism).:135
+O'nyong-nyong fever.:18
+[fever] or:18
+from Trivittatus:2
+from Nairovirus:3
+had Pestilential:2
+have Apeu:2
+suffering Pneumonia:4
+suffering Guama:1
+virus.:558
+virus,:9
+powder. I've:2
+Feverfew allergen:36
+fall-crisis. Had:2
+tertian:18
+Malignant tertian:18
+Metal fever:9
+Vesicular:9
+viral fever,:18
+suffering Fever:46
+fever, NOS.:162
+Sandfly Naples:9
+characterized by:9
+having Neutropenic:2
+have Sylvatic:2
+having RVF:2
+quintana. I:12
+from Burdwan:1
+South:153
+[pyrexia] symptoms.:9
+DNA. I've:2
+suffering Rocky:9
+the India:3
+or [Dengue]:9
+having Pixuna:4
+C or:9
+Poisoning caused:18
+Pneumonia in:36
+Murine typhus,:18
+having Mosquito-borne:108
+having Cyprus:2
+the Cyclic:1
+having Hysterical:4
+the Sweating:3
+Mosquito-borne orthobunyavirus:27
+(fever). I've:1
+Bolivian haemorrhagic:36
+NAD (finding).:18
+intent. I'm:1
+Dromedary:9
+suffering Harvest:1
+from Lysis:1
+had Charcot's:2
+the Rat-bite:5
+Mosquito-borne alphavirus:63
+nodule:9
+the WSL:1
+antibody titer:18
+the Jungle:2
+from Feverfew:5
+toxin. Had:1
+Chikungunya hemorrhagic:18
+had Plateau:4
+the Ebola:4
+had Sabia:4
+Elephantoid:9
+with valvulitis:9
+Ebola. I've:2
+-RETIRED-. I:42
+relief cloth:9
+Meningitis:36
+Drug fever:9
+NOS) or:36
+the Chills:2
+hemorrhagic fevers.:27
+from Guama:1
+from Humidifier:2
+from Pixuna:2
+from Timorian:2
+suffering Bullis:1
+stomatitis with:18
+having Gradual:8
+suffering Tacaiuma:1
+At high:18
+Absence of:9
+vaccination (context-dependent:9
+the Bebaru:2
+vaccine. I'm:7
+States. I've:1
+suffering Central:4
+the Articular:2
+suffering Poisoning:4
+CTF:9
+fever]). I'm:1
+having Malignant:10
+- irregular:27
+had FH::4
+the Hayfever.:1
+of heart:27
+have Rodent-borne:6
+than 38:9
+Feverish cold.:9
+the GMA:1
+ribonucleic acid:54
+[X]Arenaviral haemorrhagic:9
+Zinc-fume fever.:9
+having Sicilian:2
+of unknown:27
+suffering Typhoid/paratyphoid:1
+Jungle yellow:18
+Bartonellosis (&:18
+having Kew:2
+Candiru fever:9
+(TRAPS). I've:1
+relapsing fever:36
+having Five:2
+suffering Absence:1
+Sindbis fever:9
+Quaranfil:45
+antitoxin (procedure).:9
+solution vial.:9
+virus. I'm:62
+suffering Cat:3
+the Rickettsia,:2
+from Spondweni:2
+had Hay:20
+from Sheep-associated:2
+NOS. I:288
+having Double:4
+having ONN:2
+from Lujo:2
+the Changuinola:1
+have Marshall:2
+suffering Chronic:6
+fever:7534
+have Jungle:4
+horse fever:9
+after:18
+Ab.:18
+mountain spotted:27
+fever caused:81
+from Pel:2
+Fever of:45
+tick. I'm:1
+fever unspecified.:9
+Cat-scratch fever.:9
+having Haverhill:2
+cattle. I'm:2
+Sao Paulo:18
+from Zinc-fume:1
+I'm:1608
+seizure (from:9
+having Spotted:30
+from Milk:3
+Argentinian:54
+from Mill:2
+detected. I'm:1
+the Periodic:5
+Ilesha fever.:9
+IgM.:72
+Machupo haemorrhagic:9
+Periodic:45
+having Piry:2
+FTLS -:18
+fever]). Had:1
+myocarditis.:27
+with pericarditis.:18
+the Plateau:2
+mountain tick:18
+(TRAPS). I'm:1
+suffering Feels:5
+the Malignant:5
+had O'nyong-nyong:4
+have Trench:4
+suffering Malignant:5
+Mosquito-borne bunyamwera:27
+having Cat-bite:4
+from Bussuquara:1
+from Pattern:3
+had Active:16
+virus. Had:62
+Notification of:36
+had Neonatal:4
+[Fort Bragg]:18
+suffering O'nyong-nyong:2
+Postpartum fever:9
+[D]Fever of:9
+had [X]Unspecified:12
+Uganda:18
+unspecified:135
+SF-Sicilian:27
+AIDS:27
+entity). I:12
+having HIDS:2
+[Ambiguous]. I'm:9
+suffering Anti-Rickettsia:2
+having Katayama:6
+paratyphoid fever:9
+Western Rocky:18
+have Texas:4
+having Argentine:8
+had Kew:2
+Crimean-Congo. Had:2
+having Everglades:2
+osteomyelitis (disorder).:9
+hay fever:36
+B:18
+from SFTS:1
+procedure. I'm:1
+pharyngitis:27
+Anti-Ephemeral:9
+Apeu fever.:9
+Fever -:18
+H/O: hay:18
+have Zinc-fume:2
+Rickettsia rickettsii,:18
+Rickettsia rickettsii.:9
+disease (disorder).:9
+the Brass-founders':2
+(Hay:36
+fever myocarditis:9
+myocarditis (disorder).:9
+have Picket:2
+assay (procedure).:81
+[mosquito]:27
+BHF -:18
+(Viral and:18
+suffering KHF:2
+arenaviral hemorrhagic:18
+from Jungle:2
+fevers. I've:13
+having WN:2
+have Bartonellosis:4
+Quotidien fever.:9
+asthmaticus):9
+had CUO:2
+(TRAPS).:9
+having Rapid:4
+FH::18
+[Argentine] or:27
+from RhF:1
+had Polymer:4
+phase:72
+Fever. I:12
+Mediterranean spotted:18
+Administration of:18
+Hysterical fever:9
+having Intermittent:8
+(& [acute]):9
+had Enteroviral:4
+Rapid:18
+had North:10
+myocarditis. I:18
+Tick-borne bunyavirus:54
+from Picket:1
+(organism).:207
+from Wyeomyia:1
+having Tertian:4
+screening:54
+do:1608
+suffering [X]Yellow:2
+remittent. I'm:2
+group. I:60
+had Etiocholanolone:4
+suffering Zinga:1
+Borrelia.:18
+from Newborn:1
+suffering Zinc-fume:1
+variation. I've:1
+fever (organism).:9
+the Neutropaenic:1
+Rodent-borne hemorrhagic:18
+NEC.:18
+aphthous:18
+Guaroa:18
+cold. I'm:1
+suffering Injection:1
+rickettsii spotted:18
+taken (&:18
+the AHF:2
+Cough:18
+suffering Rickettsia:17
+virus RNA:27
+having Tribec:2
+contraindicated. I'm:1
+from Glandular:7
+pertussis:36
+(TNF):27
+from [X]Paratyphoid:2
+suffering Hyper-IgD:3
+have Relapsing:88
+detected (finding).:9
+having Remittent:4
+recon)+diluent. I've:1
+BPF -:9
+seizure:9
+Disorder characterised:9
+contraindicated (situation).:9
+sandfly fever.:18
+I've:1608
+the South:6
+African swine:90
+fever). I:30
+suffering Grain:2
+suffering Cough:2
+Hayfever:9
+Metal-fume fever.:9
+Rickettsia,:18
+Iran and:9
+finding. Had:2
+had Severe:4
+Mexico. I've:3
+having Dehydration:4
+Pontiac fever:9
+Trivittatus fever.:9
+[house dust]:9
+suffering Recrudescent:1
+NEC. I've:2
+treatment. I:6
+Falling:18
+having Rickettsia:34
+had Arboviral:4
+suffering (Viral:2
+from Family:6
+Guama fever.:18
+Postpartum:18
+suffering AIDS:2
+catarrhal:54
+from Splenic:1
+from BPF:1
+had Childbed:2
+to SF-Naples:18
+Asia. I:12
+Chikungunya:45
+paratyphoid fevers:18
+Pixuna fever.:9
+autumnal fever.:9
+the:1653
+suffering Amyloid:4
+fever (context-dependent:99
+from Canicola:2
+had Character:2
+and Africa.:9
+[V]Screening:54
+acute rheumatic:36
+(& [dengue]:18
+having OHF:4
+Sepik fever:9
+having [D]Fever:14
+Unspecified:18
+Sicilian virus.:27
+Feels hot/feverish.:9
+having Wyeomyia:2
+have TNF:6
+Zambian:18
+fall-crisis.:18
+diurnal fever:9
+was suffering:1608
+dominant periodic:9
+hepatic:18
+had Ossa:2
+had Nanukayami:2
+AND/OR paratyphoid:18
+group rickettsial:18
+by yellow:54
+Pel-Ebstein fever.:9
+suffering Remittent:2
+Tataguine:9
+disease] or:18
+remittent. I:12
+canine fever.:9
+had Swinging:4
+Poisoning by:18
+the Quaranfil:5
+Borrelia:9
+suffering Hayfever.:1
+Saddleback fever.:9
+Scarlet fever:27
+suffering Irregular:2
+suffering Rio:2
+from [V]Yellow:3
+suffering Pappataci:1
+have Dromedary:2
+Africa (disorder).:36
+injection solution:27
+have Guaroa:2
+tetanus:18
+Central Asia:9
+&/or paratyphoid:18
+Post vaccination:18
+the GF:1
+Maguari fever.:9
+[pretibial]). I've:1
+was:4824
+African tick-bite:18
+(extrinsic asthma:18
+Articular:18
+- Acute:9
+suffering Asthma::2
+minor:9
+Ephemeral fever:45
+[yellow fever]).:9
+from Anti-Ephemeral:1
+Malta:9
+disease:45
+having Hectic:2
+fever, unspecified:72
+meningitis. I'm:1
+grade I.:18
+fever nodule.:9
+test:54
+had Sicilian:2
+have Mosquito-borne:108
+(catscratch fever):18
+the Ross:4
+grade IV:9
+from Administration:2
+Wolhynian fever.:9
+grade II:9
+fever registered:18
+Remittent:18
+had Three:2
+have Newcastle:2
+stomatitis fever.:18
+syndrome. I'm:16
+AIDS. I've:1
+having Burdwan:2
+the Pontiac:2
+Tahyna:18
+quintana.:18
+asthma. I've:1
+had Malarial:4
+rickettsii.:18
+rickettsii,:18
+have Bolivian:12
+had Crimean-Congo:12
+having Infusion:2
+100.4 Fahrenheit:9
+Lahore canine:9
+[Bolivian].:18
+suffering Glandular:7
+Breakbone fever.:9
+have Rift:20
+having Sheep-associated:4
+Rio Bravo:27
+antibody measurement.:9
+from Elephantoid:1
+having [Temperature]:4
+the KHF:2
+arthropod-borne viral:36
+Arthropod-borne haemorrhagic:18
+suffering Cyprus:1
+from RVF:1
+having Hyperimmunoglobulin:4
+(disorder):54
+pollens. I'm:1
+have Far:4
+O/E:360
+[house:18
+rigors. I'm:1
+the Recurrent:5
+Finding:36
+the Calchaqui:2
+have Abattoir:2
+(finding). I:570
+have Lassa:8
+WN -:9
+having Biphasic:4
+having Artificial:2
+Fort:27
+antibody level.:18
+have Erythema:4
+- irregular.:18
+Potomac horse:18
+having Feeling:4
+from Ross:4
+the Hepatitis:2
+the Everglades:1
+Fever symptoms:9
+Undulant fever.:9
+product. Had:2
+Measurement of:54
+have Cat:6
+had BPF:2
+of North:27
+having FTLS:4
+suffering Murutuca:1
+Japanese river:18
+live:63
+had Saddleback:2
+suffering Murutucu:1
+had Quintan:2
+having Rodent-borne:6
+fever]):9
+fever].:9
+F:9
+the Newcastle:1
+Requires:18
+Paraneoplastic fever:9
+suffering Tick-borne:31
+have Germistan:2
+suffering Quaranfil:5
+substance. I:6
+heart:81
+fever 25micrograms:9
+from Q:23
+hepatitis. I'm:1
+Mite-borne:36
+having Uveoparotid:2
+the Omsk:6
+- Crimean-Congo:36
+having Mucambo:4
+product:9
+Swinging:18
+staircase:45
+category). I'm:30
+from Character:1
+had Continuous:4
+American haemorrhagic:9
+having FMF:2
+having Pneumonia:8
+have Quotidien:4
+and Uukuniemi:9
+the Double:2
+from DHF:2
+the Fort:3
+suffering [X]Spotted:2
+had Other:38
+have Paratyphoid:30
+cold:9
+to Spirillum:9
+have Feverfew.:2
+Dum Dum:9
+of Iran:27
+had Fever::8
+had Oriboca:2
+the Acute:16
+injection (pdr:18
+suffering Character:1
+RB:9
+having Colorado:26
+had Serogroup:8
+had Fever,:4
+the MTB:1
+having Postvaccination:2
+having Far:4
+Malarial:18
+Tick-borne flavivirus:36
+from Manzanilla:2
+having Low:2
+having Spirillary:6
+having Malayan:4
+cold. Had:1
+not:27
+undetermined intent.:9
+had Lone:6
+(physical object).:9
+from Arbovirus:4
+RMSF -:9
+having Quartan:4
+had OHF:4
+titer.:9
+(observable:18
+Mill:18
+Milk:27
+the Japanese:3
+Uganda S:18
+Copper fever:9
+Hepatitis:18
+suffering Kemerovo:2
+having Guaitara:2
+have Hereditary:4
+Cat-scratch:9
+filarial fever:27
+entity). I'm:2
+having Pyrexia:2
+the Malarial:2
+have Neonatal:4
+suffering Wood:1
+AIDS.:9
+Deerfly fever.:9
+with heart:36
+fever-gradual fall-lysis:27
+endocarditis. I've:3
+from CTF:1
+Oroya:18
+psitacci. Had:1
+having Sweating:6
+A fever:9
+Simian:54
+[pyrexia]:18
+australis. I've:1
+had Bancroftian:4
+suffering Continuous:2
+virus, NOS.:9
+U.S. AND/OR:27
+Asia:36
+the CUO:1
+fever affecting:9
+Argentine. I've:2
+Germiston fever.:9
+Borrelia. Had:2
+GF -:9
+Chlamydia:9
+Injection of:9
+[enteric] (disorder).:9
+the CCHF:4
+[X]Paratyphoid:18
+rickettsial disease:9
+had Copper:4
+I (disorder).:9
+suffering Trench:2
+than:27
+the Kew:1
+Bebaru:18
+eastern spotted:18
+Fever, diurnal:18
+the (California:2
+suffering Sindbis:2
+[dengue]:18
+from Neonatal:2
+Yellow fever:504
+- rheumatic:27
+necrosis factor:45
+Valley:72
+Naples:27
+- hay:27
+had Fog:2
+have Zika:2
+having Haemoglobinuric:2
+involvement, NEC.:9
+syringe. I've:1
+suffering Enteric:6
+had RVF:2
+RNA assay:18
+H/O: rheumatic:18
+suffering Brass:1
+have Pel:4
+had European:2
+Pericarditis:18
+renal:81
+was also:1608
+louse-borne.:9
+relief cloth.:9
+[dup]:9
+suspected. Had:2
+have Sustained:2
+had Rat-bite:10
+from Western:2
+vaccination (finding).:9
+having Notification:8
+have CDU:2
+had Quaranfil:10
+to Machupo:18
+Character:9
+general NOS.:18
+peruana]). I've:1
+had Germiston:2
+blister. I'm:1
+Southwest:54
+virus DNA.:9
+Spelters' fever:9
+had Guama:2
+toxin (substance).:9
+assay. I:60
+viral hemorrhagic:54
+Crisis of:9
+from Cane:1
+Slightly remittent:18
+serogroup:54
+have Biphasic:4
+having Newborn:2
+[Carrion's disease]:18
+Fever due:36
+having Mediterranean:8
+suffering Intermittent:4
+Coast fever.:9
+Canicola fever.:9
+had Biphasic:4
+Omsk hemorrhagic:45
+had Sandfly-borne:16
+chills. I'm:1
+NEC. Had:2
+have Sylvan:2
+suffering Anti-Ephemeral:1
+38 Celsius.:9
+Black water:18
+and pertussis:18
+fever immunization.:18
+Louse-borne relapsing:27
+specified acute:18
+and fever.:9
+flavivirus fever:18
+syndrome. I've:16
+Tacaiuma fever.:9
+the Milk:3
+the Mill:2
+the Asthma::2
+had Foundrymen's:2
+suffering Bunyamwera:1
+suffering Spring:1
+Human typhoid:18
+suffering Dengue:19
+have Bullis:2
+from Hayfever:1
+to fever.:9
+Tick-borne orbivirus:27
+vial. I've:1
+the RVF:1
+acid assay:18
+exanthematous fever.:9
+from Filoviral:3
+from Paraneoplastic:2
+Rat-bite fever:36
+from East:1
+from Chandipura:1
+Calchaqui:18
+the Parrot:2
+having Batai:4
+- Yellow:9
+had Acute:32
+typhoid AND/OR:18
+had Mycoplasmal:8
+skin. Had:1
+media:18
+Africa. Had:7
+having Spelters':4
+rickettsii. Had:2
+IV. I've:2
+Hayfever. I'm:1
+tick-borne:72
+suffering Fever.:1
+Sindbis fever.:9
+suffering Fever,:2
+vaccination encephalitis.:9
+have Family:12
+suffering Tertian:2
+have Trivittatus:4
+Intermittent fever.:9
+live vaccine:63
+suffering Fever::4
+from Five:1
+[D]Fever NOS.:9
+had Spring:2
+Typhoid fever:9
+bunyavirus fever.:36
+have Dehydration:4
+HFRS -:18
+from Elokomin:2
+scarlet fever:63
+infection. I:24
+Ab. Had:2
+typhus:45
+Examination:18
+[V]Yellow:27
+with asthma:9
+of the:45
+suffering Puerperal:3
+- Hemorrhagic:9
+unspecified. I:60
+protease. I:6
+the Wood:1
+treatment:9
+having Suspected:8
+have At:8
+having Hyper-IgD:6
+FH: Hay:18
+having Mud:2
+acquired immunodeficiency:18
+group DNA.:9
+Spirillary fever.:9
+had Cane:2
+have Canine:4
+to Chlamydia:9
+from Rhabdoviral:2
+Marburg:18
+Argentinian haemorrhagic:27
+from Otitis:2
+having Serogroup:8
+have Sandfly:44
+from Arthritis:1
+Arboviral:18
+suffering Postprocedural:2
+have Fever:92
+[X]Yellow fever,:18
+(event). I've:2
+viral:225
+(situation). I:120
+had Madrid:2
+from Transfusion:1
+hepatitis:9
+Remittent fever.:9
+had Meningococcal:4
+product. I'm:2
+Rickttsia:9
+had Isfahan:4
+had Central:8
+from Ribonucleic:4
+antibody:396
+status asthmaticus).:9
+involvement:18
+Bragg Fever:9
+reaction chill:9
+the Phlebotomus:3
+atopic]:18
+Chandipura fever.:9
+the Mediterranean:4
+Bovine tick:9
+low:18
+virus antibody:81
+had Pericarditis:4
+had Transitory:4
+having Trivittatus:4
+from Undulant:2
+poisoning. I:18
+Mediterranean tick:9
+Streptobacillary fever:9
+epizootic fever.:9
+from Continuous:2
+have Oropouche:2
+had Paraneoplastic:4
+having Seven-day:2
+Lujo hemorrhagic:9
+have Gradual:8
+Crisis:9
+having Puerperal:6
+[Bolivian]. Had:2
+(disorder). I've:301
+fever [dup]:9
+meningitis:9
+viral fevers:45
+the Rift:10
+suffering Hereditary:2
+had Rickettsia:34
+Murine:18
+[Carrion's:18
+Relapsing fever:369
+the Aseptic:2
+Streptobacillary rat-bite:9
+Harvest fever.:9
+or (Lone:18
+viral fever.:9
+Louse-borne:36
+suffering [X]Other:12
+have Malarial:4
+[fever]).:9
+dengue fever.:9
+having Pel:4
+suffering Tensaw:1
+having Articular:4
+suffering Dehydration:2
+to Borrelia:9
+Metal fume:9
+suffering Deoxyribonucleic:4
+having Kunjin:4
+having Brass:2
+Brown:18
+SFTS -:9
+rickettsia:36
+concept). I:132
+rickettsii:18
+having Wesselsbron:4
+Feeling feverish:9
+virus (finding).:9
+suffering Tataguine:1
+australis. Had:1
+from Rapid:2
+louse-borne. I:6
+have Aphthous:2
+having Cane:2
+Hayfever conjunctivitis.:9
+from Low:1
+CHF -:18
+fence:9
+suffering Burdwan:1
+mosquito-borne viral:18
+Nile fever:27
+from Polymer:2
+conjunctivitis:9
+from Febrile:4
+Rheumatic fever:81
+Antibody to:36
+the Dromedary:1
+from Wesselsbron:2
+had Human:4
+had MEF:2
+Transitory fever:18
+from Finding:4
+virus RNA.:18
+suffering WSL:1
+suffering Monday:2
+Cane:9
+thrombocytopenia,:18
+[fever]). I've:1
+suffering Chandipura:1
+suffering Western:2
+having H/O::10
+simbu:27
+suffering Neutropaenic:1
+the Quotidien:2
+have Epidemic:4
+having YF:2
+suffering Semliki:2
+taken:63
+diphtheria,tetanus:18
+having Malarial:4
+suffering CDU:1
+Fog fever.:9
+(procedure). Had:31
+fever, Rift:18
+the Congo:7
+having Rocky:18
+having Foundrymen's:2
+fever, not:9
+Chronic fever:9
+from Hypothalamic:1
+the Post:12
+the BPF:1
+to Colorado:36
+had Rising:4
+have Low:2
+fever: [arenaviral]:27
+from (Viral:2
+with AIDS.:9
+history:27
+fever. I'm:567
+suffering Adverse:5
+Feverfew.:9
+having Sao:4
+having San:4
+(Tahyna fever):9
+have Sheep-associated:4
+having Spirillum:4
+had Ganjam:2
+Machupo hemorrhagic:9
+had Transit:2
+had Hazara:6
+from Uukuniemi:2
+Fever:459
+have Recrudescent:2
+osteomyelitis:9
+the Seven:1
+a:18
+the Pyrexia:1
+agglutinins measurement,:18
+Mexico:27
+have Antigen:16
+Deer:9
+syndrome (TRAPS).:9
+suffering Phase:3
+from Deoxyribonucleic:4
+(fever). Had:1
+antibody.:135
+- Dutch:9
+and paratyphoid:18
+- Bussuquara:9
+Feverfew (organism).:9
+Marituba fever.:18
+suffering Sweating:3
+suffering Hyperimmunoglobulin:2
+Ganjam:9
+suffering MEF:1
+titre. Had:1
+for recon)+diluent.:9
+Mosquito-borne bunyavirus:54
+test. I'm:3
+substance. Had:1
+Central Asia.:18
+suffering Cat-scratch:1
+the Wyeomyia:1
+Enteric fever.:9
+D with:18
+valvulitis. I:12
+the Otitis:2
+having Aseptic:4
+valvulitis. Had:2
+have Bebaru:4
+fever, Rocky:18
+defervescence. I'm:1
+having Arenaviral:8
+from Crimean-Congo:6
+Central Asian:18
+Tick fever:18
+have Maguari:4
+encephalitis. I:18
+(disorder) [Ambiguous].:54
+have GF:2
+the Etiocholanolone:2
+Fort -:9
+suffering Fog:1
+Tick-borne orthobunyavirus:27
+with myocarditis.:18
+had Hyper-IgD:6
+fever, grade:108
+Sabia hemorrhagic:9
+- TNF:9
+orbivirus:72
+Bancroftian:18
+Filoviral hemorrhagic:18
+having Dum-dum:2
+suffering Chagres:1
+Asia. I've:2
+suffering Orungo:1
+feverish. I'm:3
+haemorrhagic:846
+from Shipping:3
+suffering Crisis:1
+[dengue] or:18
+newborn,:9
+horse:18
+newborn.:27
+Feels:45
+the Mayaro:2
+acute rise:27
+having Uruma:2
+the TRAPS:1
+rhinitis) due:18
+vaccination. I've:8
+the Hereditary:2
+mosquito-borne fever.:9
+category). I've:30
+having Nanukayami:2
+having (Viral:4
+suffering O/E:40
+pollens. I've:1
+the Antigen:8
+Quotidien:18
+(procedure).:279
+animals or:18
+Mill fever:9
+from Phlebotomus:3
+from Apeu:1
+the Query:1
+from Cat-bite:2
+have Hysterical:4
+Northwest Africa:9
+the Reversed:2
+spotted fevers.:9
+no abnormality:18
+Spondweni:18
+having Feels:10
+- unspecified:18
+Joaquin Valley:18
+the Endocarditis:2
+Malayan:18
+the Hay:10
+Rochalimaea:9
+to Borrelia.:18
+having MTB:2
+Junin:36
+suffering DHF:2
+diphtheria,tetanus and:18
+having Restan:2
+had Seven:2
+the Lujo:2
+the Sheep-associated:2
+had Otitis:4
+having (California:4
+having TRAPS:2
+suffering Potomac:2
+dominant:9
+Trivittatus fever:9
+having Measurement:12
+had CHF:4
+paratyphoid:54
+had HIDS:2
+(& [fever]):9
+had YF:2
+suffering Pyrexia:1
+Polymer:18
+australis. I'm:1
+having Recrudescent:2
+Celsius.:9
+[allergic rhinitis:18
+symptoms.:18
+II. I've:2
+Isfahan:18
+periodic fever.:36
+from Spring:1
+had Calchaqui:4
+Mosquito-borne:486
+(puerperal PUO:18
+Brucella, Francisella,:18
+have Childbed:2
+Brass:9
+Caucasus.:9
+familial Mediterranean:36
+had Marburg:4
+have Aphthus:2
+had Tribec:2
+have Marburg:4
+Dengue:198
+have Allergy::4
+from Ganjam:1
+having Ilesha:2
+have [D]Chills:5
+minus. I've:1
+O'nyong-nyong fever:9
+Dehydration:18
+Malt fever.:9
+have Pappataci:2
+the Unspecified:2
+Crimean fever:9
+having Crimean:14
+titer. I'm:1
+suffering Zika:1
+Rickettsia rickettsiae:63
+group Ag.:9
+(RNA) assay.:9
+suffering Newborn:1
+Recrudescent:9
+skin. I'm:1
+have CHF:4
+the Harvest:1
+California:27
+Restan:9
+fever NOS.:162
+suffering Brown:2
+rise. I've:6
+Crimean haemorrhagic:27
+having Periodic:10
+Q fever,:18
+Q fever.:54
+from H/O::5
+exanthematous:18
+star fever):9
+value).:18
+star fever.:9
+from Mud:1
+suffering Cyclic:1
+suffering Katayama:3
+have Meningococcal:4
+fall-lysis (context-dependent:9
+Paratyphoid A:18
+Paratyphoid B:18
+Paratyphoid C:18
+pneumonia. I:12
+[O/E] (finding).:9
+typhus. I've:1
+type of:18
+having Administration:4
+history of:27
+Hyper-IgD periodic:27
+have Pahvant:2
+had [X]Yellow:4
+suffering Valley:1
+specified arthropod-borne:90
+having Simian:12
+forest fever.:9
+the Rabbit:1
+have Zinga:2
+with chills.:9
+(finding). I've:95
+Fever. I'm:2
+the Relapsing:44
+Brass-founders' fever:9
+suffering Japanese:3
+(substance). I'm:31
+Otitis media:18
+had Hayfever.:2
+from Tahyna:2
+suffering Sheep-associated:2
+PUO NOS).:9
+have Meningitis:8
+SF-Sicilian virus.:18
+have Unspecified:4
+from Inkoo:1
+having TNF:6
+postabortal:18
+from Haemoglobinuric:1
+[Bolivian] (disorder).:9
+category). Had:30
+Chlamydia psitacci.:9
+Pericarditis associated:18
+having Scarlet:8
+serology:27
+(procedure). I'm:31
+meningitis. I:6
+(product). I'm:9
+antigen.:36
+American mountain:9
+from Saddleback:1
+Arenaviral:36
+affecting skin.:9
+have Korean:8
+from Infusion:1
+level. I:12
+Rising:18
+entity). I've:2
+had Bebaru:4
+had Western:4
+Fahrenheit.:9
+human immunodeficiency:9
+have Administration:4
+Pattern:27
+the Katayama:3
+suffering Humidifier:2
+(event).:18
+(fever::18
+Febrile illness:9
+suffering [D]Chills:3
+having Bhanja:2
+Sandfly:243
+sweating:18
+serogroup C:27
+asthma):18
+asthma.:9
+Crimean-Congo haemorrhagic:54
+suffering Artificial:1
+from Oriboca:1
+had Postvaccination:2
+rickettsiae ribonucleic:27
+from Familial:3
+have Uveoparotid:2
+the [X]Rat-bite:2
+have Lujo:4
+have Febrile:8
+to rheumatic:27
+Uruma fever.:9
+history: Hay:27
+RNA (substance).:9
+from Scarlet:4
+suffering Nepuyo:1
+having Jungle:4
+from Sylvatic:1
+Deer fly:9
+registered:18
+had Jungle:4
+Severe:27
+fever. Had:566
+injection:63
+had [V]Screening:12
+suffering Etiocholanolone:2
+had Hepatitis:4
+with human:9
+suffering RVF:1
+cervical lymphadenitis:18
+fever]. I'm:1
+have Glandular:14
+Remittent fever:9
+general. Had:2
+had ONN:2
+have AIDS:4
+autumnalis. I'm:1
+Marburg. I:12
+virus Ag.:27
+suffering West:4
+the Lysis:1
+immunisation.:18
+star tick:9
+cold. I:6
+diurnal variation:9
+from Guaitara:1
+recon)+diluent. Had:1
+fever (&:18
+have Sweating:6
+having Childbed:2
+virus. I:372
+for Dengue:9
+the Argentine:4
+and aphthous:18
+At:36
+Isfahan fever:9
+Chapare virus:9
+suffering Serogroup:4
+rickettsia antibody:18
+suffering Rhabdoviral:2
+(substance). I've:31
+had Uganda:4
+fever. I've:566
+from Guaroa:1
+[X]Arenaviral hemorrhagic:18
+had Anti-Rickettsia:4
+had Bhanja:2
+minus.:9
+had DHF:4
+- NAD:27
+viral fevers.:18
+Feeling:18
+the Kedani:2
+Bullis:9
+renal syndrome.:36
+suspected. I:12
+pharyngitis (disorder).:9
+from Asthma::2
+the Hectic:1
+the Rio:2
+dehydration fever.:9
+dust]. I:6
+Tumour:9
+over. I've:2
+the Administration:2
+Pixuna:18
+types of:9
+from ONN:1
+Mycoplasmal:36
+suffering Red:2
+have Anti-Rift:6
+Tertian fever.:9
+- Q:18
+product.:18
+had Filoviral:6
+fever antibody:81
+typhus fever.:18
+injection (product).:9
+from Transport:1
+America:36
+fever (situation).:135
+Crimean:81
+[X]Unspecified arthropod-borne:18
+had Rabbit:2
+had Suspected:8
+Trench:18
+have Familial:6
+from Pestilential:1
+from Active:8
+had Classical:10
+having Swamp:4
+having Lysis:2
+abnormality detected:9
+have Undulant:4
+S fever:9
+suffering Candiru:2
+conjunctivitis.:18
+have BHF:4
+from Arthropod-borne:8
+had Absence:2
+from Biphasic:2
+the Korean:4
+had Feeling:4
+antigen. Had:4
+having Enteroviral:4
+poisoning. Had:3
+peruana]). Had:1
+the Pharyngoconjunctival:1
+had Erythema:4
+had Uruma:2
+having Vesicular:2
+of spotted:18
+fall-crisis (context-dependent:9
+have GRO:2
+Parrot fever.:9
+DHF -:18
+Post diphtheria,tetanus:18
+have RMSF:2
+[with:18
+from Metal:4
+poisoning. I'm:3
+hepatitis. I've:1
+the Rheumatic:11
+the newborn.:9
+the newborn,:9
+have Spring:2
+or [trachoma]).:9
+- method:99
+had Marseilles:2
+vesicular:18
+titre:9
+(Hay fever):18
+suffering ONN:1
+Erythema marginatum:18
+had Simian:12
+Fever (disorder).:9
+also having:1608
+NOS):45
+NOS.:432
+had Cyprus:2
+pharyngitis.:9
+had (Hay:8
+suffering Bovine:8
+(fever: [Fort:18
+Boutonneuse:45
+from GMA:1
+had Poisoning:8
+from Batai:2
+the Rhabdoviral:2
+Paulo fever:9
+having [X]Arthropod-borne:6
+Sindbis:18
+rickettsiae:108
+moniliformis. I'm:1
+suffering ARF:1
+rickettsial:18
+had [X]Paratyphoid:4
+the Humidifier:2
+Dengue hemorrhagic:99
+[Dengue]. Had:2
+[pollen] or:18
+unknown origin:9
+having Bebaru:4
+in newborn:9
+from [D]Chills:3
+valley. I'm:2
+have Bovine:16
+from Wood:1
+suffering CHF:2
+over. I'm:2
+myocarditis:9
+fever conjunctivitis:9
+Izumi fever.:9
+Arenaviral hemorrhagic:27
+guama group:27
+have Tumour:2
+have Malignant:10
+had Neapolitan:4
+have Immunoglobulin:32
+having CDU:2
+Caucasus (disorder).:9
+fever) or:54
+suffering Canicola:2
+scratch fever:18
+Bovine petechial:18
+suffering Maguari:2
+Amyloid:36
+titer. Had:1
+suffering Post:12
+have Character:2
+Neutropaenic:9
+had Pattern:6
+suffering Foundrymen's:1
+have Uruma:2
+Bunyamwera fever.:9
+- fast:54
+Machupo virus.:18
+(product). Had:9
+having Continuous:4
+Francisella, Murine:18
+from Slightly:2
+suffering Hayfever:1
+had Timorian:4
+Chikungunya fever:9
+had Uveoparotid:2
+fevers (disorder).:72
+procedure. I've:1
+suffering Antigen:8
+from Three:1
+Anti-Rickettsia:18
+from Accidental:3
+Rickettsia siberica.:9
+suffering Lujo:2
+vaccination. I:48
+States. I'm:1
+have Etiocholanolone:4
+Ab. I've:2
+the Ossa:1
+the Restan:1
+arthropod-borne:108
+fever pericarditis.:9
+Hyper-immunoglobulin D:18
+had Lysis:2
+Amyloid of:36
+asthma without:18
+[swamp]:18
+the Quintan:1
+suffering Thogoto:1
+having Hartebeest:2
+Other:171
+have Chikungunya:10
+renal syndrome:45
+- staircase:45
+ephemeral:36
+Fahrenheit. I've:1
+of yellow:18
+have Pericarditis:4
+having Tick:12
+fever (navigational:198
+have Batai:4
+having Meningococcal:4
+having Texas:4
+the ARF:1
+the [V]Yellow:3
+Dengue fever.:18
+have [X]Arenaviral:6
+suffering Measurement:6
+having Postpartum:4
+Catarrhal fever:9
+procedure.:9
+newborn. Had:3
+seizure. I'm:1
+(Milk fever):18
+the Pel-Ebstein:1
+the Rising:2
+scratch fever.:9
+had Valley:2
+fever. I:3402
+involvement. I'm:6
+viral encephalitis):18
+having Transfusion:2
+Active rheumatic:72
+suffering Feverfew.:1
+have GMA:2
+suffering Ganjam:1
+have Sepik:4
+suffering Wyeomyia:1
+defervescence.:9
+- remittent.:18
+Hartebeest:9
+suffering Fort:3
+had Germistan:2
+spotted:486
+rickettsial disease.:9
+by typhoid:18
+from Guanarito:2
+canine:9
+powder:18
+from Thogoto:1
+have Bunyamwera:2
+- Candiru:9
+AND/OR Northwest:18
+the Staircase:2
+had Queensland:2
+- Guaroa:9
+- West:9
+the Fever:46
+undetermined:18
+have Puerperal:6
+had Yellow:104
+the Zambian:2
+having Cat:6
+the Mud:1
+had [X]Arthropod-borne:6
+quotidien fever:9
+[examination of]:18
+Spirillum:27
+detected. I've:1
+Artificial:9
+suffering Crimean-Congo:6
+Low:9
+valvulitis:9
+vial. Had:1
+the Shipping:3
+Ag. I've:4
+Bolivian:72
+Northwest Africa.:18
+had CDU:2
+suffering Allergy::2
+from Hay:10
+Sepik:18
+have Tumor:8
+suffering Ebola:4
+or [swamp]:18
+from Erythema:2
+suffering Family:6
+examination -:621
+Borrelia. I:12
+pericarditis. I:18
+had Nepuyo:2
+O/E -:360
+Mud fever.:9
+Hysterical:18
+the Nepuyo:1
+had Rapid:4
+Sepik fever.:9
+[chlamydia] or:18
+have Brass:2
+the Picket:1
+meningitis. Had:1
+have Antibody:8
+the Katamaya:1
+suffering Rat-bite:5
+the Cat-bite:2
+had Blackwater:2
+Uruma:9
+I. I've:2
+osteomyelitis.:9
+Fever blister.:9
+from On:62
+the Murutucu:1
+have Quaranfil:10
+from Intermittent:4
+having Shuni:2
+the Murutuca:1
+Izumi:18
+had MTB:2
+acid of:72
+had Ross:8
+Inkoo:9
+[O/E]. I've:1
+with familial:18
+suffering Malarial:2
+have Feeling:4
+having Korean:8
+the Deerfly:1
+powder. I'm:2
+suffering OHF:2
+Puerperal:27
+suffering Seven:1
+have Endocarditis:4
+the O/E:40
+from Germiston:1
+have Sicilian:2
+had Cough:4
+Fever 41:9
+Bancroftian filarial:18
+intent. I've:1
+[Dengue]:9
+of phase:18
+had East:2
+the Q:23
+the Pneumonia:4
+IgG. I'm:8
+from Endocarditis:2
+had Rheumatic:22
+have Newborn:2
+Congo haemorrhagic:18
+fever]). I:6
+Ebola haemorrhagic:45
+Maguari fever:9
+from Postprocedural:2
+immunization.:18
+the Phase:3
+Ebola hemorrhagic:45
+from Izumi:2
+NOS. I'm:48
+having Deoxyribonucleic:8
+immunisation. I've:2
+suffering Immunoglobulin:16
+pharyngitis. I:6
+have Pretibial:2
+have History:34
+have Spotted:30
+Bebaru fever:9
+Absence:9
+pericarditis. I've:3
+pneumonia. Had:2
+the Puerperal:3
+streptococcus toxin.:9
+had Canine:4
+virus (substance).:117
+HIDS -:9
+have Arenaviral:8
+the Neapolitan:2
+stomatitis:45
+suffering Intentional:3
+having Haemorrhagic:28
+Sicilian:63
+suffering Dromedary:1
+aseptic meningitis:9
+Abattoir:9
+Suspected dengue:18
+Brazilian spotted:18
+Pharyngoconjunctival fever.:9
+immunodeficiency syndrome:9
+the OHF:2
+-RETIRED-. Had:7
+from MTB:1
+have Candiru:4
+education:9
+Hemorrhagic:144
+Lassa fever:18
+tick:405
+Undulant fever:9
+star:45
+having Cardiac:6
+had Drug:4
+from Sindbis:2
+have Artificial:2
+had Haemoglobinuric:2
+(organism). I:138
+[typhoid]:18
+feverish. I've:3
+Hereditary periodic:18
+of familial:36
+from Tribec:1
+temperature taken:18
+Tick-borne arboviral:9
+or [fever]:18
+Junin virus.:18
+from Wolhynian:1
+suffering from:1608
+from Seven:1
+had Phase:6
+the Marburg:2
+having Eastern:4
+characterised:9
+[X]Other arenaviral:27
+Calchaqui fever:9
+powder.:18
+have Transport:2
+the Tensaw:1
+having BHF:4
+antibody assay.:45
+Feverfew. I've:1
+marginatum:18
+had Pneumonia:8
+solution:27
+having Pharyngoconjunctival:2
+- atopic]:18
+the Spotted:15
+Canine hemorrhagic:9
+Naples virus:9
+suffering Neapolitan:2
+Bravo fever.:18
+the Batai:2
+peruana]). I:6
+had Transport:2
+Argentine. I'm:2
+the Sicilian:1
+(puerperal:18
+have European:2
+Neapolitan sandfly:18
+Puerperal fever:18
+newborn (disorder).:27
+from Artificial:1
+Timorian filarial:18
+syndrome virus.:9
+from VHF:2
+from Myoclonus:2
+106:9
+States. Had:1
+Mountain Spotted:9
+suffering Finding:4
+leptospiral:18
+On examination:558
+having Central:8
+fevers and:27
+Intermittent hepatic:18
+from Rickettsia,:2
+had Education:4
+symptoms. I've:2
+tick. I:6
+Accidental:27
+having Itaqui:2
+asthma. I:6
+NOS). I've:1
+equine fever.:9
+had Monday:4
+type:18
+Sicilian sandfly:9
+(Tahyna fever).:9
+not suspected.:18
+have Argentinian:8
+the Catu:1
+leukopenia:9
+or [trachoma]):9
+had Rio:4
+pharyngitis and:18
+from Hectic:1
+and leukopenia:9
+having Chagres:2
+quotidien:18
+- continuous:27
+RhF:9
+Relapsing:396
+had Ephemeral:6
+the CHF:2
+suffering RMSF:1
+have Valley:2
+have Hazara:6
+Sandfly-borne:72
+vesicular stomatitis:18
+had Breakbone:2
+cold.:9
+blister.:9
+had Dugbe:2
+had Murutuca:2
+and South:27
+had Nairovirus:6
+Lujo virus:9
+tick fever:225
+had Murutucu:2
+having Zinga:2
+quotidien fever.:9
+suffering Transport:1
+the DHF:2
+[D]Fever NEC:18
+intermittent. I've:2
+having Zinc-fume:2
+from Hereditary:2
+general. I've:2
+Artificial fever.:9
+recon)+diluent.:9
+Spondweni fever:9
+Mite-borne hemorrhagic:27
+from Charcot's:1
+India:27
+suffering FH::2
+suffering Deerfly:1
+Syndrome. Had:1
+suffering Periodic:5
+encephalitis:27
+chlamydial:18
+product. I:12
+Spotted fever:126
+suffering Cardiac:3
+Thogoto fever.:9
+Hayfever. I've:1
+have Q:46
+having Argentinian:8
+Tick-borne fever:27
+the Feverfew:5
+had Zambian:4
+Postoperative:18
+Crimean-Congo hemorrhagic:81
+the Mosquito-borne:54
+contraindicated.:9
+from Enteric:6
+siberica.:9
+Etiocholanolone fever:9
+Mill fever.:9
+have [X]Yellow:4
+RNA.:27
+skin.:9
+fever streptococcus:18
+have Feverfew:10
+had Streptobacillary:6
+Bragg]:18
+having Calchaqui:4
+have Omsk:12
+from Argentinian:4
+IgG. Had:8
+Lassa:36
+fever nodule:9
+tick-bite:18
+catarrhal fever.:9
+have Education:4
+grade:117
+of -:81
+Splenic:9
+suffering [X]Unspecified:6
+from Disorder:2
+Phlebotomus:27
+unspecified. I've:10
+Celsius. I:6
+have Elokomin:4
+the H/O::5
+SFTS:9
+Tahyna fever:9
+Colorado tick:180
+the Hartebeest:1
+have Urban:4
+intermittent. I:12
+have [X]Paratyphoid:4
+blister. I've:1
+[X]Arthropod-borne:27
+having BSQ:2
+had Hyper-immunoglobulin:4
+the Brazilian:7
+sweating. Had:1
+antitoxin:9
+of cattle.:18
+had Anti-Rift:6
+fever (observable:18
+fever due:189
+[fever]). I'm:1
+suffering WN:1
+hepatitis.:9
+rat-bite fever.:36
+TNF receptor-associated:35
+had Rock:2
+antibody (procedure).:27
+Deerfly:9
+had Argentine:8
+[Bolivian]. I:12
+Post pertussis:18
+Adverse reaction:45
+Articular rheumatic:18
+the Russian:2
+syndrome. Had:16
+(HIDS). I'm:1
+41 degrees:9
+the On:62
+Anti-Ephemeral fever:9
+had Elephantoid:2
+have Tahyna:4
+having At:8
+rickettsiae spotted:45
+dog:27
+the Bhanja:1
+symptoms (finding).:18
+from Ilesha:1
+having ARF:2
+suffering Administration:2
+the ONN:1
+Tacaiuma:9
+rickettsiae antibody:18
+have Streptobacillary:6
+the Tacaiuma:1
+(fever). I'm:1
+of Southwest:54
+have Isfahan:4
+having Bancroftian:4
+to yellow:27
+virus antigen.:27
+virus subgroup:9
+having CHF:4
+the Haemorrhagic:14
+SF-Naples:18
+have Injection:2
+of Rickettsia:54
+orthobunyavirus fever:36
+have Yellow:104
+suffering Shuni:1
+bunyavirus:153
+the Swamp:2
+the Dehydration:2
+the Intentional:3
+chills. I:6
+have On:124
+of Southern:45
+Ribonucleic acid:36
+Newcastle fever.:9
+test substance.:9
+had Catu:2
+have Malt:2
+from Zambian:2
+cold (finding).:9
+autumnalis. Had:1
+the CDU:1
+louse-borne. I've:1
+C:54
+the RMSF:1
+Central:162
+had KHF:4
+minus. I'm:1
+Guanarito:18
+have FMF:2
+having Examination:4
+suffering Parrot:2
+irregular. I've:2
+Epidemic haemorrhagic:9
+variation. I'm:1
+- Severe:9
+had Colorado:26
+Feverish cold:9
+from Cat-scratch:1
+suffering GMA:1
+the Transfusion:1
+[acute]). I've:1
+suffering Familial:3
+Rodent-borne haemorrhagic:9
+from Crisis:1
+suffering Bartonellosis:2
+- Colorado:9
+have Milk:6
+have Mill:4
+Prolonged:18
+have Rapid:4
+the Sepik:2
+fever outbreak:18
+the Chandipura:1
+from Plateau:2
+having Lone:6
+Infusion of:9
+the HIDS:1
+subgroup, NOS.:9
+continuous (finding).:18
+had [V]Yellow:6
+[X]Typhus:18
+over.:18
+suffering Seven-day:1
+Feverfew. I:6
+0.5units/dose powder.:9
+[arenaviral]:27
+in:90
+having Hereditary:4
+quintana. I've:2
+cutter's fever.:9
+poisoning. I've:3
+from Vesicular:1
+flavivirus haemorrhagic:18
+Paraneoplastic fever.:9
+antibody to:144
+Fever: [typhoid]:18
+Canine:18
+from Fort:3
+from Phase:3
+Disorder characterized:9
+Hypothalamic:9
+or [with:18
+the Typhoid/paratyphoid:1
+the [X]Other:12
+human:9
+F or:9
+Pretibial:9
+- rapid:9
+RVF:9
+having Fever::8
+Anti-Colorado tick:18
+antibody. I:90
+character:90
+America. I:36
+the Sandfly-borne:8
+having Fever.:2
+having Fever,:4
+have Crisis:2
+having [X]Mosquito-borne:4
+from Brazilian:7
+had Articular:4
+[X]Yellow:18
+suffering Rodent-borne:3
+the Anti-Rickettsia:2
+from Bolivian:6
+suffering Cane:1
+have Typhoid:12
+the Antibody:4
+the Measurement:6
+Timorian:18
+having Brown:4
+peruana]).:9
+suffering Malt:1
+Fever relief:18
+Mosquito-borne arboviral:27
+having African:26
+have Wolhynian:2
+Pyrexia:9
+having Sindbis:4
+have Hayfever:2
+North America:9
+louse-borne. Had:1
+from Machupo:2
+sweating. I'm:1
+chills (finding).:9
+[Ambiguous].:81
+had (California:4
+arenaviral:27
+sheep. I'm:1
+screening test:18
+- no:18
+having Enteric:12
+Syndrome. I'm:1
+education.:9
+cutter's:9
+Postpartum fever.:9
+other allergen:9
+having RMSF:2
+NEC. I:12
+relapsing fever.:18
+relapsing fever,:18
+have Brass-founders':4
+type. I:12
+antitoxin. I:18
+from Tataguine:1
+suffering Typhoid:6
+FMF -:9
+fever aseptic:18
+the Banzi:1
+had Double:4
+[allergic]:18
+have Mayaro:4
+suffering Milk:3
+suffering Mill:2
+fever group:315
+having [X]Other:24
+have Dum:2
+had Banzi:2
+the Cat:3
+have South:12
+the Eastern:2
+Arthritis:9
+from Metal-fume:2
+had Wood:2
+have [D]Fever:14
+the Spirillum:2
+from CCHF:4
+from Venezuelan:6
+suffering Transfusion:1
+of Colorado:18
+group virus.:9
+suffering Boutonneuse:3
+had Louse-borne:8
+had Quartan:4
+recurrentis. I'm:1
+stomatitis fever:9
+milk:9
+Factitious fever.:9
+fever]. I've:1
+titre. I'm:1
+encephalitis] or:18
+having Anti-Colorado:4
+S fever.:9
+had Puerperal:6
+had Sylvan:2
+having GF:2
+of Yellow:36
+had Disorder:4
+had Mediterranean:8
+the Bunyamwera:1
+from Isfahan:2
+Sandfly-borne orbivirus:18
+Asian tick:45
+measurement (procedure).:9
+Bussuquara:18
+the Seven-day:1
+defervescence (finding).:9
+Fever measures.:9
+suffering Isfahan:2
+Asia (disorder).:9
+from Feeling:2
+from Pneumonia:4
+from Requires:2
+having Wood:2
+fall-lysis (finding).:18
+had Indiana:2
+had Spotted:30
+suffering Haverhill:1
+the Lone:3
+HIDS:9
+fly fever.:9
+from Query:1
+unspecified (disorder).:81
+fever unspecified:9
+with AIDS:9
+fevers. I'm:13
+having Lahore:2
+the Ribonucleic:4
+from Recurrent:5
+have Germiston:2
+to Yellow:36
+Mosquito-borne haemorrhagic:9
+suffering Marshall:1
+Enteric:54
+disease NOS):18
+from Chagres:1
+rheumatic:387
+having Caraparu:2
+object).:9
+Louse-borne typhus:9
+conjunctivitis. I:12
+suffering Severe:2
+- general:72
+associated with:72
+or [enteric].:9
+had Wolhynian:2
+Simian haemorrhagic:18
+suffering Endocarditis:2
+Anti-Rickettsia spotted:18
+I'm suffering:1608
+Spotted fevers.:9
+the Kemerovo:2
+the African:13
+having Indiana:2
+had Japanese:6
+tertian fever.:9
+have Oriboca:2
+had Arbovirus:8
+Brazilian haemorrhagic:9
+from Texas:2
+seizure. Had:1
+[Dengue]. I've:2
+from Chapare:2
+had Brown:4
+having CCHF:8
+have Argentine:8
+fly:9
+NEC. I'm:2
+Mosquito-borne California:27
+vaccine 0.5units/dose:18
+Recrudescent typhus:9
+pericarditis. I'm:3
+have Accidental:6
+Phlebotomus fever.:9
+fever -:477
+have Arthropod-borne:16
+have Calchaqui:4
+Double quotidien:18
+the Fast:1
+the Uveoparotid:1
+Dutch:9
+pharyngoconjunctival fever.:9
+Spirillum minor:9
+Tertian fever:9
+fever tick.:9
+Otitis:18
+the FMF:1
+procedure. Had:1
+or (puerperal:18
+Pestilential:9
+the Monday:2
+acid. Had:1
+had Spondweni:4
+the Familial:3
+pollens.:9
+have RhF:2
+Bolivian hemorrhagic:36
+of Classical:36
+greater than:27
+having Chandipura:2
+the Examination:2
+media due:18
+Central fever:9
+from Suspected:4
+C fever:9
+Rickttsia rickettsii.:9
+suffering Kew:1
+had Slightly:4
+B fever:9
+gradual:45
+acid assay.:18
+the Rapid:2
+have Staircase:4
+chills.:9
+from Tumor:4
+group:477
+the Machupo:2
+having [X]Relapsing:4
+Dugbe:9
+toxin:9
+Guanarito hemorrhagic:9
+have [X]Relapsing:4
+had Zinc-fume:2
+had Sandfly:44
+the Rat:3
+Foundrymen's:9
+factor (TNF):27
+feverish:9
+had Red:4
+from ARF:1
+Measurement:54
+the [X]Relapsing:2
+Sandfly fever.:9
+Sandfly fever,:9
+had Malt:2
+Izumi fever:9
+fever virus:792
+from Bwamba:1
+suspected. I'm:2
+Aseptic fever.:9
+from African:13
+(finding). Had:95
+the Immunoglobulin:16
+Relapsing fever.:9
+suffering Myocarditis:2
+Relapsing fever,:18
+Omsk:72
+Kew:9
+fever conjunctivitis.:9
+- Ross:9
+having Hay:20
+G:72
+from Hyper-immunoglobulin:2
+Tumor:36
+from Red:2
+having [D]Chills:6
+education. I:6
+group antibody:54
+leucopenia:9
+think:1608
+have Neutropenic:2
+had RMSF:2
+suffering Quartan:2
+Black:18
+Rift valley:153
+Myoclonus:18
+had Low:2
+registered. I've:2
+suffering Sylvan:1
+from Cyprus:1
+[X]Relapsing:18
+from San:2
+from Sao:2
+had Infusion:2
+Post:108
+had Bartonellosis:4
+have BPF:2
+in typhoid:18
+antibody titre.:9
+continuous:27
+have Poisoning:8
+and leucopenia:9
+had WSL:2
+had Arthropod-borne:16
+Immunoglobulin G:72
+from Harvest:1
+Immunoglobulin M:72
+(Milk:18
+fever osteomyelitis:9
+Caucasus. Had:1
+Central AND/OR:72
+Transfusion reaction:9
+having [X]Arenaviral:6
+suffering Queensland:1
+haemorrhagic fevers.:27
+suffering MTB:1
+the Metal-fume:2
+suffering Arboviral:2
+the Crimean:7
+osteomyelitis. I've:1
+Parrot:18
+DHF:18
+from Hysterical:2
+have Dengue:38
+Irregular fever.:9
+minus rat-bite:9
+[acute]):9
+(substance). Had:31
+from Enteroviral:2
+Serogroup Rift:18
+(pdr:18
+the VHF:2
+WN:9
+have AHF:4
+Iberian Peninsula:27
+receptor-associated:81
+the Hazara:3
+suffering [X]Mosquito-borne:2
+from Malayan:2
+to Rickttsia:9
+having Family:12
+Bovine epizootic:9
+pericarditis (disorder).:9
+Sylvan yellow:9
+having Phase:6
+have Otitis:4
+suffering Haemoglobinuric:1
+from Aphthous:1
+morning:9
+in newborn.:9
+[Bolivian]. I'm:2
+Education:18
+suffering Yellow:52
+have Tick-borne:62
+from Cyclic:1
+having Tumour:2
+U.S., Mexico,:27
+from Gradual:4
+the Falling:2
+had Bolivian:12
+or (conjunctivitis::18
+the [X]Arenaviral:3
+the [V]Screening:6
+cervical:18
+receptor-associated periodic:81
+AND/OR Africa.:9
+measurement. I've:3
+Guaroa fever.:18
+had Tick-borne:62
+Tataguine fever.:9
+Iran AND/OR:18
+[Japanese:18
+suffering TNF:3
+Africa. I've:7
+from Bovine:8
+Manzanilla fever.:9
+have Wood:2
+had Finding:8
+have Nanukayami:2
+fever endocarditis.:9
+from North:5
+the Thogoto:1
+remittent (finding).:18
+Jungle:18
+rise (context-dependent:18
+Marshall:9
+have Postvaccination:2
+have Cane:2
+from RMSF:1
+recurrentis.:9
+have Notification:8
+[enteric]. I've:1
+having Rhabdoviral:4
+have Tacaiuma:2
+had Pretibial:2
+Acute Q:18
+Diphasic milk:9
+rickettsii. I:12
+had African:26
+irregular. I:12
+suffering Bwamba:1
+intent.:9
+Sweating fever.:9
+had Chandipura:2
+Infusion:9
+Bullis fever.:9
+- general.:18
+having [X]Typhus:4
+Sennetsu fever.:9
+Elokomin fluke:18
+recurrentis. Had:1
+screening. I'm:1
+suffering Catarrhal:1
+from OHF:2
+intermittent:27
+Hyperimmunoglobulin:18
+suffering Venezuelan:6
+from Mosquito-borne:54
+had Recurrent:10
+fume:27
+Meningococcal:18
+bunyavirus fever:45
+Quaranfil fever.:9
+dehydration:9
+had Rhabdoviral:4
+Spring fever.:9
+Hartebeest malignant:9
+(event). I:12
+Finding of:36
+from Neapolitan:2
+had Gibraltar:2
+Enteric fever:45
+Newcastle:9
+suffering American:2
+Fever::36
+had Black:4
+purpuric fever:9
+have Restan:2
+of scarlet:54
+Fever,:45
+Fever.:18
+(from fever).:9
+the Urban:2
+suffering Katamaya:1
+having Other:38
+Mexico. I'm:3
+measures. I've:1
+having Education:4
+I. Had:2
+specified:153
+suffering Pontiac:2
+fever pericarditis:9
+hay fever].:9
+Meningococcal cerebrospinal:18
+phase of:72
+had History:34
+Venezuelan haemorrhagic:27
+having Germiston:2
+had Paratyphoid:30
+having Ebola:8
+from Falling:2
+had Bunyamwera:2
+have HFRS:4
+from Postpartum:2
+psitacci.:9
+Congo-Crimean:27
+Transport:9
+[Chikungunya]:27
+Argentine haemorrhagic:18
+siberica. I've:1
+from HFRS:2
+had Congo:14
+Quintan:9
+States, Mexico,:18
+have Timorian:4
+Marituba:18
+had Malta:2
+had Catarrhal:2
+had Deerfly:2
+have Crimean:14
+Eastern Rocky:18
+suffering Hemorrhagic:15
+vaccine injection.:9
+asthma) or:18
+Asthma::18
+had Adverse:10
+suffering CUO:1
+suffering Banzi:1
+Mosquito-borne flavivirus:63
+syndrome virus:9
+gradual rise:27
+the Lassa:4
+endocarditis (disorder).:9
+streptococcus toxin:9
+the Tertian:2
+general:72
+the Character:1
+Bragg:27
+postabortal fever.:9
+antibody titer.:9
+have Cyclic:2
+Fever seizure.:9
+tick-borne fever.:9
+Uveoparotid:9
+from Rickettsia:17
+antigen. I:24
+having Seven:2
+suffering Swinging:2
+Arbovirus hemorrhagic:27
+have Neutropaenic:2
+[O/E]. I:6
+from Postoperative:2
+rise of:36
+with unspecified:18
+(TRAPS). Had:1
+from Immunoglobulin:16
+have Periodic:10
+Plateau:18
+having Rat-bite:10
+malignant catarrhal:27
+autosomal:9
+the MEF:1
+Other specified:90
+hot/feverish. I'm:1
+fall:45
+[D]Fever NOS:18
+the Abattoir:1
+[verruga peruana]).:9
+Simian hemorrhagic:36
+have Sennetsu:4
+had Antibody:8
+Cane cutter's:9
+have Tick:12
+the Sylvatic:1
+Western United:18
+Cough with:18
+having Hemorrhagic:30
+fever taken:45
+Borrelia recurrentis.:9
+river fever.:27
+have Swamp:4
+have CTF:2
+from WN:1
+have Inkoo:2
+have Red:4
+have Transit:2
+Red water:18
+Pel-Ebstein:9
+cattle. Had:2
+suffering Apeu:1
+Borrelia. I'm:2
+suffering Ribonucleic:4
+Aphthous:9
+(conjunctivitis: [chlamydia]:18
+unknown origin.:18
+lymphadenitis:18
+(disorder). I:1805
+orbivirus fever.:27
+America.:54
+suffering YF:1
+Uukuniemi:27
+the Hemorrhagic:15
+syndrome [Ambiguous].:9
+tick-bite fever:9
+diurnal fever.:9
+have Mud:2
+have Parrot:4
+fever] (disorder).:9
+suffering Hysterical:2
+have Catarrhal:2
+Mucambo fever:9
+American:54
+FMF:9
+have Changuinola:2
+outbreak education:9
+have Malta:2
+Wood:9
+virus (disorder).:63
+Sweating:27
+suffering Piry:1
+fever screening:27
+Oropouche:9
+from Madrid:1
+Tumour necrosis:9
+with thrombocytopenia:18
+Deoxyribonucleic:36
+education. Had:1
+suffering CCHF:4
+suffering Cat-bite:2
+had Hemorrhagic:30
+the [D]Fever:7
+the Anti-Yellow:2
+having Chapare:4
+have Oroya:4
+the Aphthous:1
+have Harvest:2
+also had:1608
+from Feverfew.:1
+solution vial:9
+viral disease:18
+Hayfever.:9
+having Black:4
+fevers.:117
+Poisoning:36
+suffering European:1
+Texas:18
+having Cyclic:2
+have Katayama:6
+suffering Pestilential:1
+having Trench:4
+from Marshall:1
+detected:9
+the Arenaviral:4
+having Bolivian:12
+Mexico, Central:45
+vaccination fever:45
+[O/E]. Had:1
+suffering Febrile:4
+having Ossa:2
+the Feverfew.:1
+orthobunyavirus fever.:18
+disorder due:18
+having Kedani:4
+involvement. Had:6
+Pel Ebstein:18
+the Texas:2
+antibody. Had:15
+from Everglades:1
+the Sandfly:22
+Familial autosomal:9
+Blackwater fever.:9
+factor receptor-associated:18
+having Japanese:6
+(disorder).:2709
+antitoxin. I've:3
+suffering Blackwater:1
+Tribec:9
+from Chronic:6
+Mucambo:18
+the Tribec:1
+suffering Paratyphoid:15
+Feverish:18
+the San:2
+the Sao:2
+fever hepatitis:9
+suffering Sabia:2
+III.:18
+the Copper:2
+Sandfly-borne bunyavirus:18
+suffering Far:2
+rhabdovirus fever.:18
+suffering Low:1
+from Sabia:2
+North Africa.:9
+(physical:9
+Spotted Fever,:9
+have Elephantoid:2
+had Katayama:6
+had Hereditary:4
+the Classical:5
+syndrome (disorder).:81
+typhus. I:6
+disease. Had:2
+Sustained:9
+involvement,:9
+suffering Active:8
+suffering Sandfly-borne:8
+have Hyper-immunoglobulin:4
+had Rocky:18
+have Arboviral:4
+infection NOS):18
+the Red:2
+GMA -:9
+the Chapare:2
+had O/E:80
+had Rat:6
+of undetermined:18
+the Postoperative:2
+having Rabbit:2
+Anti-Rift valley:27
+the Feeling:2
+suffering Sicilian:1
+suffering Adenoviral:2
+have [X]Typhus:4
+CCHF:36
+from GRO:1
+Asia. Had:2
+minus. I:6
+the Splenic:1
+have Enteric:12
+mountain:45
+Abattoir fever.:9
+having Canine:4
+from Rat:3
+suffering Eastern:2
+had Aphthus:2
+Aphthus:9
+had Falling:4
+Arbovirus haemorrhagic:9
+Familial Mediterranean:36
+the Wolhynian:1
+had Injection:2
+fever vaccination:99
+suffering Uukuniemi:2
+having Zika:2
+suffering History:17
+Postoperative fever:9
+had Elokomin:4
+having Active:16
+Rickettsia australis.:9
+Fever symptoms.:9
+malignant:27
+method fever:81
+fall-crisis:27
+moniliformis.:9
+have Amyloid:8
+vaccination contraindicated:9
+from AHF:2
+suffering Pixuna:2
+had Argentinian:8
+from WSL:1
+CDU -:9
+had Deoxyribonucleic:8
+Brazilian purpuric:27
+the Cardiac:3
+the AIDS:2
+[X]Other specified:63
+Mosquito-borne hemorrhagic:27
+suffering Sepik:2
+sheep.:9
+Bartonella quintana.:9
+having Antibody:8
+from South:6
+have Myoclonus:4
+having Metal:8
+and viral:27
+had Mud:2
+Staircase:18
+thrombocytopenia syndrome:18
+the Pretibial:1
+Trench fever:9
+endocarditis:9
+alphavirus haemorrhagic:9
+have Deer:2
+(substance).:279
+the East:1
+Arthropod-borne:72
+the Filoviral:3
+from Hemorrhagic:15
+the Caraparu:1
+asthma:27
+having Transit:2
+have Bancroftian:4
+fever]).:9
+from Pontiac:2
+minus:9
+from Marituba:1
+having Myoclonus:4
+DNA. I'm:2
+having Dengue:38
+in Q:18
+having Changuinola:2
+Chagres fever.:9
+newborn:27
+having (OS:8
+Gibraltar:9
+Pappataci fever.:9
+0.5mL prefilled:9
+from Transit:1
+day fever.:27
+measurement. I:18
+suffering Anti-Rift:3
+had Intermittent:8
+from Etiocholanolone:2
+from YF:1
+Rickettsia:270
+have Quartan:4
+having Marseilles:2
+Germistan fever.:9
+from Candiru:2
+have Prolonged:4
+have VHF:4
+suffering Oriboca:1
+hyper-IgD:9
+having West:8
+from Rift:10
+having Semliki:4
+have Chagres:2
+group antibody.:9
+III. I've:2
+had Sennetsu:4
+RMSF:9
+have (Viral:4
+I've had:1608
+the Rocky:9
+fevers. Had:13
+origin. I'm:2
+the Uruma:1
+had Deer:2
+object). I'm:1
+of fever.:189
+the WN:1
+character NOS:27
+peruana]). I'm:1
+have Vesicular:2
+chill fever:9
+valley. Had:2
+valley fever.:18
+having Query:2
+spotted fever:387
+pollens. Had:1
+[X]Typhus fever,:18
+concept). I've:22
+from American:2
+continuous. I'm:2
+toxin. I'm:1
+had Restan:2
+value). I've:2
+had Oropouche:2
+the Pestilential:1
+having Maguari:4
+suffering Aphthous:1
+from (Milk:2
+had Sweating:6
+suffering (California:2
+other allergens]:18
+(OS tick-borne:18
+have Tertian:4
+- continuous.:18
+virus (&:36
+Thogoto:9
+Arboviral hemorrhagic:9
+have Banzi:2
+tick-borne hemorrhagic:27
+have Cat-bite:4
+African tick-borne:9
+Humidifier:18
+had Calovo:2
+syndrome. I:96
+the Chikungunya:5
+have Guama:2
+have WN:2
+having Amyloid:8
+Periodic fever:27
+the Caucasus:9
+PUO NOS):9
+have Colorado:26
+swine fever:162
+valley.:18
+suffering Oroya:2
+unspecified. I'm:10
+have Bwamba:2
+object). Had:1
+feverish.:27
+from Fever::4
+from Katayama:3
+Joaquin:18
+from Fever,:2
+from Fever.:1
+Machupo:36
+[extrinsic -:18
+Puerperal fever.:9
+pharyngitis. I've:1
+from Dehydration:2
+from Arboviral:2
+fever Naples:18
+Rickettsia spotted:142
+[fever]) (finding).:9
+had Fever:92
+having Zambian:4
+Cardiac disorder:18
+vaccine 0.5unts/dose:18
+and cervical:18
+suffering Gradual:4
+Intentional yellow:27
+suffering Wolhynian:1
+with acquired:18
+from FTLS:2
+suffering Calchaqui:2
+III. I'm:2
+(context-dependent category).:270
+undetermined intent:9
+toxin. I:6
+scarlet:90
+have Guanarito:4
+VHF:18
+having [X]Unspecified:12
+injection. I've:1
+Asia.:18
+had Brass-founders':4
+CTF -:9
+Biphasic fever:9
+valley. I:12
+finding. I:12
+Wyeomyia fever.:9
+hot/feverish. I:6
+detected. Had:1
+syringe. I:6
+have Crimean-Congo:12
+had Carditis:4
+Asian:63
+having Thogoto:2
+rheumatic fever,:9
+rheumatic fever.:126
+from Rabbit:1
+Pestilential fever.:9
+to Sandfly:27
+morning fever.:9
+the Cat-scratch:1
+have CCHF:8
+Ganjam fever.:9
+from Carditis:2
+have Gibraltar:2
+(event). Had:2
+RNA assay.:18
+suffering Meningococcal:2
+- Bragg:9
+assay:81
+(disorder). Had:301
+Post diphtheria:18
+pneumonia.:18
+having Antigen:16
+origin.:18
+fall-lysis. I've:2
+having Congo-Crimean:6
+had Measurement:12
+had Myoclonus:4
+having Potomac:4
+Lone:27
+Fast:9
+from [X]Arthropod-borne:3
+fever, Ebola.:18
+having Tataguine:2
+Catarrhal:9
+the Guaitara:1
+suffering Pel:2
+having Hayfever.:2
+Canicola fever:9
+tick. Had:1
+European:9
+suffering Viral:14
+had ARF:2
+minor rat-bite:9
+RR -:9
+Fever (organism).:9
+from Brass-founders':2
+Nanukayami fever.:9
+from Valley:1
+had Zika:2
+suffering BHF:2
+38:9
+the Dum:1
+have H/O::10
+Katayama fever.:9
+the Myocarditis:2
+Brazilian:72
+had Hectic:2
+have Bussuquara:2
+the Semliki:2
+having Ganjam:2
+from MEF:1
+Enteroviral:18
+fever screening.:9
+measures. I:6
+titer. I:6
+Kemerovo fever.:9
+Fahrenheit. I:6
+having CUO:2
+having (Hay:8
+suffering Rock:1
+having Anti-Rift:6
+intermittent. I'm:2
+suffering Lassa:4
+had CCHF:8
+have Haemorrhagic:28
+or [named:18
+[X]Spotted fever,:18
+suffering Marseilles:1
+the Ephemeral:3
+from Childbed:1
+YF:9
+or [allergic]:18
+suffering Oropouche:1
+the Central:4
+forest:18
+suffering Metal-fume:2
+Cardiac:27
+nodule. Had:1
+have Myocarditis:4
+relapsing:72
+have North:10
+ephemeral fever.:9
+Recurrent fever:9
+100.4 Fahrenheit.:9
+Hysterical fever.:9
+of Iberian:27
+registered (finding).:9
+have Hectic:2
+bunyamwera:27
+have Three:2
+BHF:18
+(organism). I've:23
+virus infection.:9
+after vaccination.:9
+Requires a:18
+arboviral fever.:27
+suffering Argentinian:4
+the Transport:1
+the Brass:1
+the Family:6
+the Trivittatus:2
+from Antigen:8
+from Measurement:6
+Transitory:18
+(product).:81
+had [X]Typhus:4
+from Semliki:2
+allergen. I've:3
+having Pahvant:2
+suffering San:2
+suffering Sao:2
+from O/E:40
+greater:27
+(Hay fever:18
+treatment (procedure).:9
+having On:124
+Antibody:36
+day:27
+have Cyprus:2
+the Fever.:1
+subgroup (organism).:9
+the Fever,:2
+the YF:1
+the Fever::4
+vaccine product.:9
+hemorrhagic fever:531
+(procedure). I:186
+the Enteric:6
+had Sheep-associated:4
+from Pappataci:1
+having Allergy::4
+Scarlet fever.:9
+virus IgM.:54
+suffering Louse-borne:4
+[Ambiguous]. I've:9
+intent. I:6
+having VHF:4
+the Continuous:2
+Irregular:18
+have Pixuna:4
+Dengue haemorrhagic:63
+from Spirillum:2
+bite fever:18
+titer measurement.:9
+Haemoglobinuric:9
+suffering Tick:6
+Staircase fever:9
+Madrid:9
+character of:45
+Fever treatment.:9
+suffering Rift:10
+registered. I:12
+have India:6
+Sabia haemorrhagic:9
+acid (substance).:9
+Administration:18
+- Familial:18
+had Tick:12
+antibody assay:45
+suffering BPF:1
+had Lujo:4
+suffering Sennetsu:2
+assay.:90
+North Asian:45
+Coast:9
+Itaqui fever.:18
+the Swinging:2
+from West:4
+immunisation. I'm:2
+in yellow:18
+immunization. I:12
+suffering Abattoir:1
+paratyphoid fevers.:18
+Rift Valley:36
+Periodic fever,:9
+Periodic fever.:9
+fever of:360
+the Prolonged:2
+Metal-fume fever,:9
+the Requires:2
+had Dengue:38
+have:3216
+- Marituba:9
+have MTB:2
+from Canine:2
+suffering Hectic:1
+suffering Feverfew:5
+[X]Mosquito-borne:18
+have Cat-scratch:2
+taken NOS:27
+having Nairovirus:6
+[D]Persistent fever.:9
+test product:9
+had (Milk:4
+had Quotidien:4
+immunodeficiency syndrome.:9
+had Itaqui:2
+had Febrile:8
+from Deer:1
+have Japanese:6
+having Elephantoid:2
+myocarditis. I've:3
+had Spirillum:4
+the Newborn:1
+Africa. I'm:7
+have Seven:2
+with sweating.:9
+Candiru fever.:18
+had West:8
+Rising phase:18
+Bwamba:9
+Newborn dehydration:9
+the Febrile:4
+Anti-Colorado:18
+remittent. Had:2
+from Restan:1
+suffering North:5
+have Kunjin:4
+having Bwamba:2
+the Sustained:1
+pattern:18
+scrub typhus.:9
+multiple types:9
+Carditis due:18
+[Bolivian]. I've:2
+Staircase fever.:9
+had Chronic:12
+Suspected Ebola:18
+[D]Fever:63
+having GMA:2
+S:18
+had Newborn:2
+Zinga fever.:9
+Feeling feverish.:9
+Foundrymen's fever.:9
+had Fort:6
+from Tensaw:1
+have [X]Mosquito-borne:4
+glandular fever:36
+allergens] or:18
+from Spelters':2
+IV. I:12
+TRAPS -:9
+having Hayfever:2
+management. I:6
+(disorder). I'm:301
+have Central:8
+Syndrome. I:6
+virus group.:27
+from Quaranfil:5
+virus group,:18
+[X]Other:108
+valvulitis.:18
+Rheumatic fever,:9
+Rheumatic fever.:18
+from Meningitis:4
+[Dengue] (disorder).:9
+suffering Epidemic:2
+the Infusion:1
+having RB:2
+variation. I:6
+having RR:2
+from Nepuyo:1
+general. I'm:2
+having Mycoplasmal:8
+Tick-borne relapsing:45
+have HIDS:2
+having Reversed:4
+have Postoperative:4
+fever] or:36
+autumnalis.:9
+have Transitory:4
+have Uukuniemi:4
+antibody level:18
+having Etiocholanolone:4
+Mediterrean:18
+the Cyprus:1
+suffering Wesselsbron:2
+having [X]Rat-bite:4
+had Typhoid/paratyphoid:2
+suffering Suspected:4
+having Immunoglobulin:32
+from Potomac:2
+from Germistan:1
+Rheumatic:108
+the Bancroftian:2
+Spring:9
+the Childbed:1
+suffering Breakbone:1
+Kemerovo:18
+have Marituba:2
+Fever greater:27
+orthobunyavirus:54
+autumnalis. I've:1
+test.:27
+from Articular:2
+have Suspected:8
+Everglades fever.:9
+encephalitis. I'm:3
+from Hyperimmunoglobulin:2
+postpartum:18
+KHF:18
+allergen (disorder).:27
+fever osteomyelitis.:9
+have Caraparu:2
+had Bovine:16
+measures. Had:1
+solution 0.5mL:9
+had Neutropaenic:2
+Scarlet:36
+Sandfly-borne rhabdovirus:18
+Inkoo fever.:9
+the Feels:5
+Brass-founders':18
+[trachoma]). Had:1
+typhus fever:18
+Sicilian virus:27
+Breakbone:9
+fever with:279
+object). I:6
+suffering Guaitara:1
+had Spiking:4
+have Charcot's:2
+Meningitis due:18
+the Deoxyribonucleic:4
+test (procedure).:18
+had Hysterical:4
+about:18
+vaccine injection:54
+South America:27
+Post yellow:18
+from Spotted:15
+from [X]Yellow:2
+epizootic:9
+had Malignant:10
+Aphthus fever.:9
+have [X]Arthropod-borne:6
+variation.:9
+the TNF:3
+recurrentis. I:6
+CUO:9
+I. I'm:2
+having Madrid:2
+intermittent (finding).:18
+suffering (Hay:4
+or (allergic:18
+had Uukuniemi:4
+from History:17
+Typhoid:54
+41:9
+grade fever.:9
+fever character:45
+from Louse-borne:4
+Phase:27
+suffering Relapsing:44
+subgroup. I've:1
+from Hepatitis:2
+the BHF:2
+variation:9
+Swamp:18
+titre. I've:1
+the Foundrymen's:1
+had Chikungunya:10
+had RR:2
+had RB:2
+suffering Dugbe:1
+have Chronic:12
+have Calovo:2
+[O/E].:9
+Fever treatment:9
+nodule.:9
+fever pneumonia.:18
+from Piry:1
+States (disorder).:9
+had Unspecified:4
+endocarditis. I'm:3
+typhus (procedure).:9
+Myoclonus associated:18
+NOS). I'm:1
+suffering Other:19
+have Brazilian:14
+fever Sicilian:54
+risk:36
+IV. I'm:2
+rise:90
+Neutropaenic fever.:9
+GF:9
+suffering Arthropod-borne:8
+dust]. I'm:1
+- level:90
+Chills:18
+had Postpartum:4
+treatment. I've:1
+Spirillum minus.:9
+from Brass:1
+fever endocarditis:9
+having Recurrent:10
+Batai fever:9
+the Anti-Ephemeral:1
+VHF -:18
+suffering Pharyngoconjunctival:1
+injection.:9
+from Swamp:2
+Asia. I'm:2
+acid. I'm:1
+Continuous:18
+having Slightly:4
+Ilesha:9
+having Acute:32
+filarial fever.:27
+general.:18
+AND/OR:189
+have Polymer:4
+substance. I'm:1
+have Spelters':4
+having Wolhynian:2
+from Korean:4
+had AIDS:4
+Gradual:36
+had [X]Spotted:4
+suffering H/O::5
+have Double:4
+have [X]Other:24
+(finding). I'm:95
+hot/feverish:18
+Quartan fever:9
+had CTF:2
+the Deer:1
+suffering Drug:2
+from Calchaqui:2
+psitacci. I:6
+fever [Ambiguous].:18
+had Gradual:8
+by virus:9
+and fever:9
+the Chagres:1
+hepatitis. Had:1
+have Slightly:4
+Bovine ephemeral:36
+the Bovine:8
+autumnal:9
+from Congo-Crimean:3
+suffering Spirillum:2
+Wolhynian:9
+have Mucambo:4
+have Intermittent:8
+Bravo fever:9
+the Mucambo:2
+to SF-Sicilian:18
+streptococcus:18
+had [X]Relapsing:4
+fever type.:9
+vaccination (procedure).:27
+fever vaccine.:63
+viral haemorrhagic:36
+Cardiac Q:9
+the Biphasic:2
+[dup] (disorder).:9
+products]:18
+ONN:9
+had SFTS:2
+III:9
+Typhoid/paratyphoid fevers.:9
+America (disorder).:36
+irregular (finding).:18
+had Tertian:4
+for haemorrhagic:9
+II.:18
+Copper fever.:9
+Japanese:27
+virus group:18
+antitoxin.:27
+disease.:18
+from Rock:1
+Urban:18
+myocarditis. Had:3
+to scarlet:36
+had Eastern:4
+Rift:207
+suffering Jungle:2
+have Ossa:2
+CHF:18
+the Pixuna:2
+from Dum:1
+paratyphoid fever.:9
+history::27
+- Haemorrhagic:9
+Adenoviral pharygoconjunctival:9
+disease]:18
+have Irregular:4
+having Queensland:2
+diphtheria vaccination:18
+from Dugbe:1
+had Swamp:4
+suffering Arenaviral:4
+fever]:45
+had Feverfew:10
+[Temperature] or:18
+from Cat:3
+AIDS (disorder).:9
+had Chagres:2
+cloth (physical:9
+fevers:99
+sheep. Had:1
+having Hepatitis:4
+from Congo:7
+seizure. I:6
+had BSQ:2
+to typhoid:36
+Metal:36
+syndrome with:9
+suffering Argentine:4
+endocarditis.:27
+cloth.:9
+suffering Trivittatus:2
+(finding).:855
+equine:9
+from Quintan:1
+fever::54
+East Coast:9
+Marburg haemorrhagic:9
+fever,:558
+fever.:5102
+fever):90
+Guanarito haemorrhagic:9
+had Tumour:2
+Notification:36
+the Tick-borne:31
+from Uganda:2
+suffering At:4
+powder. Had:2
+having Louse-borne:8
+have FTLS:4
+Lysis of:9
+Grain fever:9
+had Artificial:2
+having Sepik:4
+continuous. Had:2
+asthma. Had:1
+from Rocky:9
+having Factitious:4
+States,:18
+States.:9
+asthmaticus). I've:1
+Central and:27
+suffering Ilesha:1
+D periodic:18
+having Fast:2
+from BSQ:1
+from Typhoid/paratyphoid:1
+(substance). I:186
+typhus. Had:1
+having Congo:14
+Ebstein fever.:9
+[Japanese encephalitis]:18
+had Brazilian:14
+have West:8
+of fever:225
+Dum-dum:9
+Transit fever.:9
+have Tribec:2
+[pretibial]):9
+continuous. I've:2
+the Burdwan:1
+-:2025
+measurement, Brucella,:18
+had Myocarditis:4
+had Korean:8
+suffering Pahvant:1
+vaccine (finding).:9
+have Catu:2
+the Hysterical:2
+contraindicated. I:6
+fence fever.:9
+to infection.:18
+suffering Hemoglobinuric:1
+had Mayaro:4
+by virus.:9
+have Articular:4
+have Pneumonia:8
+suffering Nairovirus:3
+from Blackwater:1
+Elephantoid fever.:9
+from Puerperal:3
+from Feverish:2
+Fever associated:36
+for recon)+diluent:9
+Spiking fever:9
+unspecified allergen:18
+the Queensland:1
+suffering Kunjin:2
+Southern U.S.,:27
+rigors. Had:1
+suffering Human:2
+having Sabia:4
+vaccination contraindicated.:9
+had Cat:6
+cloth. I:6
+[X]Relapsing fever,:18
+Canicola:18
+Had the:1608
+the ITQ:1
+bite fever.:18
+bite fever,:9
+from Catu:1
+Charcot's fever.:9
+Hectic fever.:9
+lymphadenitis syndrome.:9
+Mediterranean:108
+allergen.:27
+suffering [X]Arenaviral:3
+suffering Sylvatic:1
+have Black:4
+from Intentional:3
+having Malt:2
+unspecified.:90
+from Central:4
+Pel:18
+Hazara hemorrhagic:18
+Feels hot/feverish:18
+the Quartan:2
+Zambian hemorrhagic:9
+have Canicola:4
+having SFTS:2
+from Rat-bite:5
+Iberian:27
+the Tumor:4
+had Pixuna:4
+have Cough:4
+the Neutropenic:1
+Southwest United:18
+subgroup. I'm:1
+newborn, NOS.:9
+pneumonia. I'm:2
+having Tacaiuma:2
+have YF:2
+Celsius. I'm:1
+ONN -:9
+level of:90
+Spirillary:27
+the Paratyphoid:15
+irregular:27
+(product). I've:9
+vaccine. I've:7
+from Urban:2
+NOS (situation).:9
+suffering Postoperative:2
+having Neutropaenic:2
+Rift valley.:18
+typhoid fever.:36
+Bragg] or:18
+have Potomac:4
+from Double:2
+SF-Sicilian virus:9
+Mexico. I:18
+ephemeral fever:27
+Chronic Q:18
+Drug fever.:9
+suffering Phlebotomus:3
+Hazara:27
+Southern:45
+the Typhoid:6
+fever vaccine:225
+having [X]Paratyphoid:4
+had Rift:20
+having Mill:4
+and due:18
+having Milk:6
+the Hayfever:1
+have Manzanilla:4
+Rat-bite fever.:9
+typhoid fever:36
+had Enteric:12
+managing fever:9
+suffering Gibraltar:1
+the Maguari:2
+have Hyperimmunoglobulin:4
+SF-Naples virus.:9
+periodic:189
+from Rio:2
+autosomal dominant:9
+suffering India:3
+(observable entity).:18
+Enteroviral exanthematous:18
+- NAD.:18
+have Blackwater:2
+had Spelters':4
+Mediterrean fever:9
+hot/feverish (qualifier:9
+recurrentis. I've:1
+suffering Omsk:6
+II. Had:2
+from Tick:6
+- Guama:9
+meningitis (disorder).:9
+having Hazara:6
+or (catscratch:18
+Oriboca fever.:9
+Charcot's:9
+have Aseptic:4
+Dum fever.:9
+suffering Dum-dum:1
+the Malta:1
+swine fever.:18
+have Fog:2
+OHF:18
+immunization. I'm:2
+the Vesicular:1
+(OS:36
+D:36
+had Metal-fume:4
+osteomyelitis. I'm:1
+from Pahvant:1
+the Undulant:2
+screening. I've:1
+fever without:36
+Pahvant Valley:9
+from Cardiac:3
+had [X]Mosquito-borne:4
+origin. I:12
+to Rochalimaea:9
+the Factitious:2
+Q fever:234
+petechial fever:9
+rhinitis:18
+having Deer:2
+[X]Unspecified viral:36
+the Crisis:1
+from Trench:2
+RNA. I'm:3
+suffering Crimean:7
+having Quotidien:4
+Postoperative fever.:9
+prefilled:9
+sweating. I:6
+Continuous fever:9
+Hemorrhagic fever:126
+Zambian haemorrhagic:9
+had Tataguine:2
+(Tahyna:18
+suspected.:18
+suffering Rising:2
+conjunctivitis. Had:2
+Catu fever.:9
+Argentine. Had:2
+viral fever:9
+suffering Lone:3
+vial. I:6
+having Rickettsia,:4
+Celsius. I've:1
+intent (disorder).:9
+vaccination:189
+B fever.:9
+having Elokomin:4
+had Hayfever:2
+[X]Mosquito-borne viral:18
+group. I'm:10
+having Catarrhal:2
+the Brown:2
+Post tetanus:18
+Rocky:144
+GMA:9
+Bunyamwera:9
+typhus,:18
+typhus.:9
+from Typhoid:6
+having Typhoid:12
+having Uukuniemi:4
+American hemorrhagic:27
+had Picket:2
+Tick fever,:9
+Peninsula AND/OR:18
+Tick fever.:27
+to Rickettsia:63
+treatment. Had:1
+- remittent:27
+no:18
+had Inkoo:2
+had FMF:2
+India tick:27
+suffering GF:1
+having Erythema:4
+or (Tahyna:18
+Double:18
+fall-crisis. I'm:2
+cerebrospinal fever:9
+fever encephalitis:9
+group RNA.:9
+Cat scratch:27
+DNA. I:12
+bwamba:27
+encephalitis. I've:3
+typhus. I'm:1
+virus IgG.:54
+from CUO:1
+suffering Polymer:2
+the Dengue:19
+skin. I:6
+valley fever:162
+the Valley:1
+suffering Restan:1
+have American:4
+have Carditis:4
+[mosquito] or:27
+status asthmaticus):9
+having Oroya:4
+blister. I:6
+have Drug:4
+having Arbovirus:8
+had [X]Arenaviral:6
+Spotted:144
+level:108
+Haemorrhagic:135
+had Machupo:4
+having Poisoning:8
+suffering Requires:2
+Fever (finding).:9
+Ag.:36
+aseptic:18
+assay. I've:10
+group,:18
+group.:90
+the Isfahan:2
+(HIDS). Had:1
+Northwest:27
+grade III:9
+Mosquito-borne simbu:27
+Red:18
+Dehydration fever:18
+have Kedani:4
+have Scarlet:8
+had Oroya:4
+Haverhill fever.:9
+having Dromedary:2
+due to:387
+with chills:9
+water:36
+fluke:18
+had Neutropenic:2
+Piry fever.:9
+with asthma):18
+with asthma.:9
+[house dust].:9
+grade II.:18
+heart involvement:18
+asthma (disorder).:9
+Cyprus fever.:9
+[Dengue]. I'm:2
+Fahrenheit. Had:1
+have Pharyngoconjunctival:2
+suffering Streptobacillary:3
+have Kemerovo:4
+fever in:18
+(RNA):9
+the Pericarditis:2
+NAD. I've:2
+having Otitis:4
+alphavirus fever:18
+diurnal:36
+suffering RhF:1
+the CTF:1
+have Boutonneuse:6
+Family:54
+the Bussuquara:1
+[childhood]:18
+suffering Mayaro:2
+[X]Spotted:18
+have RVF:2
+Seven-day fever.:9
+staircase fever:27
+Chapare hemorrhagic:9
+the Drug:2
+test product.:9
+Burdwan:9
+screening. Had:1
+remittent fever:9
+the Ilesha:1
+the Malt:1
+[X]Arenaviral:27
+had Anti-Colorado:4
+the West:4
+having Banzi:2
+Pixuna fever:9
+suffering Simian:6
+the Zinc-fume:1
+Changuinola:9
+Oroya fever:9
+[chlamydia]:18
+had Family:12
+siberica. Had:1
+United States,:18
+United States.:9
+had Marshall:2
+having Junin:4
+having Pestilential:2
+Mosquito-borne bwamba:27
+Wesselsbron:27
+newborn. I've:3
+suffering Mycoplasmal:4
+Murutuca fever.:9
+the Hypothalamic:1
+from Aseptic:2
+[X]Rat-bite:18
+Texas fever.:9
+have Anti-Ephemeral:2
+pericarditis.:27
+rhabdovirus fever:27
+meningitis. I've:1
+from Dum-dum:1
+suffering Quintan:1
+bwamba group:27
+had Scarlet:8
+have Transfusion:2
+History of:153
+encephalitis) or:18
+rickettsia antibody.:18
+had Sustained:2
+IgG. I:48
+- Omsk:18
+from Malt:1
+having Transport:2
+having East:2
+[acute]). I:6
+nodule (disorder).:9
+the Slightly:2
+the Postprocedural:2
+star fever:9
+had [X]Other:24
+group IgG.:18
+australis. I:6
+hemorrhagic:1314
+fever hepatitis.:9
+having Lassa:8
+have DHF:4
+purpuric fever.:18
+having Quaranfil:10
+had Q:46
+had Newcastle:2
+to other:18
+having Pontiac:4
+the [X]Yellow:2
+have East:2
+serology screening:27
+swine:180
+(conjunctivitis::18
+suffering Indiana:1
+origin:9
+have [X]Rat-bite:4
+Rocky mountain:36
+rat-bite:36
+object). I've:1
+from CHF:2
+pattern of:18
+from (California:2
+leptospiral infection:18
+or [pretibial]).:9
+have Pel-Ebstein:2
+the Bwamba:1
+from Sylvan:1
+Malayan filarial:18
+from Calovo:1
+suffering Acute:16
+the Spiking:2
+fall-lysis. Had:2
+Colorado:180
+encephalitis. Had:3
+or [pyrexia]:18
+poisoning:54
+and:243
+from Amyloid:4
+the Poisoning:4
+unspecified type:18
+NAD. I'm:2
+from Caraparu:1
+Ebola. Had:2
+Omsk haemorrhagic:27
+involvement. I've:6
+Crimean-Congo. I'm:2
+[trachoma]). I'm:1
+Korean hemorrhagic:27
+the Apeu:1
+multiple:9
+having Accidental:6
+(extrinsic:18
+Ag. Had:4
+had Tacaiuma:2
+RNA. I've:3
+had Mite-borne:8
+with fever.:36
+grade IV.:18
+have Anti-Colorado:4
+the Venezuelan:6
+immunization. Had:2
+have Shipping:6
+from Zika:1
+having Injection:2
+from Foundrymen's:1
+rickettsioses):18
+have Zambian:4
+Acute rise:18
+Mosquito-borne orbivirus:27
+virus Ab.:18
+from Rheumatic:11
+glandular:72
+having Rat:6
+cloth. I've:1
+suffering Rickettsia,:2
+postpartum fever.:9
+have Dum-dum:2
+the Tick:6
+from Anti-Yellow:2
+cattle. I've:2
+the Disorder:2
+Changuinola fever.:9
+have Venezuelan:12
+Gardens spotted:9
+and chlamydial:18
+suffering Hyper-immunoglobulin:2
+from [X]Arenaviral:3
+West Nile:45
+have Shuni:2
+SF-Naples virus:9
+arenaviral haemorrhagic:9
+Streptobacillus:9
+measurement. Had:3
+U.S.:36
+suffering Texas:2
+[Bolivian]:9
+the Saddleback:1
+having Bullis:2
+reaction:54
+Valley fever.:27
+having Adverse:10
+the Adverse:5
+Chronic:54
+star fever).:9
+titer. I've:1
+suffering Factitious:2
+the Hyper-immunoglobulin:2
+Madrid fever.:9
+Haemorrhagic fever:99
+assay. I'm:10
+fever syndrome.:72
+have Quintan:2
+about managing:18
+yellow fever.:54
+the Transitory:2
+immunodeficiency:27
+had Trivittatus:4
+(qualifier:18
+siberica. I'm:1
+rickettsiae typhus:18
+II (disorder).:9
+having Pappataci:2
+Rhabdoviral vesicular:18
+Orungo fever.:9
+Quartan:18
+suffering Hepatitis:2
+from Relapsing:44
+from Adenoviral:2
+from Transitory:2
+or [Bolivian].:18
+have Spondweni:4
+have Itaqui:2
+finding. I'm:2
+- O'nyong-nyong:9
+the Suspected:4
+group RNA:18
+familial Mediterrean:18
+have Rat-bite:10
+Oropouche fever.:9
+suffering [X]Typhus:2
+having Febrile:8
+I.:18
+the Congo-Crimean:3
+status:18
+have Rheumatic:22
+having Transitory:4
+IV:9
+II:9
+suffering Three:1
+- Wesselsbron:9
+antibody. I've:15
+having Isfahan:4
+without:54
+relief:18
+had Antigen:16
+Febrile seizure:9
+Kew Gardens:9
+have Western:4
+United:54
+having Endocarditis:4
+had Wesselsbron:4
+NOS (procedure).:9
+Argentine.:18
+have Arbovirus:8
+suffering Chikungunya:5
+CCHF -:36
+having Shipping:6
+the Catarrhal:1
+pharyngoconjunctival:9
+from Quotidien:2
+subgroup. I:6
+suffering [V]Screening:6
+suffering Five:1
+acute:81
+had [Temperature]:4
+[extrinsic:18
+from Hazara:3
+Bravo:27
+leucopenia syndrome.:9
+have Monday:4
+general NOS:27
+fluke fever.:9
+suffering Bebaru:2
+rigors. I:6
+chills. Had:1
+fever, Argentine.:18
+West:45
+rhinitis due:18
+having Bussuquara:2
+[hay fever]:18
+from Newcastle:1
+fall-lysis. I'm:2
+Orungo:9
+of pattern:18
+the Glandular:7
+(navigational concept).:198
+Rock:9
+Sandfly-borne arboviral:18
+(California:18
+of:1395
+Transit:9
+the Active:8
+the Candiru:2
+AND/OR South:72
+having Candiru:4
+or:612
+fever live:63
+Rhabdoviral:18
+had Undulant:4
+from Dengue:19
+H/O: glandular:9
+GRO -:9
+rise.:54
+tertian fever:9
+valley:180
+having History:34
+Hemoglobinuric fever.:9
+have Haemoglobinuric:2
+having Hypothalamic:2
+Fahrenheit (finding).:9
+from Itaqui:1
+recon)+diluent. I'm:1
+had Harvest:2
+was having:1607
+had Manzanilla:4
+Erythema:18
+Acute rheumatic:117
+suffering Zambian:2
+had Intentional:6
+Ag. I:24
+having Absence:2
+hepatitis (disorder).:9
+education. I've:1
+having Dum:2
+vaccine poisoning:54
+Candiru:27
+tick-borne rickettsioses):18
+had GF:2
+IgM. I:48
+concept). I'm:22
+having Chronic:12
+to Rift:54
+Glandular:72
+with rigors.:7
+having Saddleback:2
+valvulitis (disorder).:9
+Lassa fever.:9
+having Requires:4
+have Reversed:4
+over. I:12
+from Ephemeral:3
+pneumonia (disorder).:9
+had Crimean:14
+tick-bite fever.:9
+AHF:18
+of sheep.:9
+titer measurement:9
+suffering Haemorrhagic:14
+have Fort:6
+having Asthma::4
+had Haemorrhagic:28
+having Humidifier:4
+Uukuniemi fever.:9
+contraindicated. I've:1
+Crimean-Congo. I've:2
+Marburg.:18
+East:9
+Cat-bite fever:9
+Fever: [examination:18
+the O'nyong-nyong:2
+from Aphthus:1
+having Oriboca:2
+had Guanarito:4
+from European:1
+California group:27
+have Russian:4
+United States:27
+staircase fever.:18
+low risk:18
+valvulitis. I've:2
+Cyprus:9
+from Eastern:2
+Epidemic hemorrhagic:9
+have Everglades:2
+tick.:9
+have Classical:10
+suffering HIDS:1
+from Sustained:1
+H/O::45
+from [D]Persistent:3
+having DHF:4
+had Guaitara:2
+group rickettsiae:45
+of newborn.:9
+suffering Mediterranean:4
+Paratyphoid fever.:9
+have Tataguine:2
+Paratyphoid fever,:9
+Spiking fever.:9
+Venezuelan equine:9
+had Urban:4
+had (Viral:4
+from Mediterranean:4
+toxin.:9
+the Artificial:1
+the Sylvan:1
+Lujo haemorrhagic:9
+the Oropouche:1
+have San:4
+have Sao:4
+ARF -:9
+having Dugbe:2
+the (Viral:2
+cattle. I:12
+have [V]Screening:12
+suffering South:6
+Ebola. I'm:2
+had Orungo:2
+suffering Ossa:1
+Caucasus. I'm:1
+having Anti-Yellow:4
+Bhanja:9
+origin. Had:2
+[Oroya fever]:18
+South Africa.:18
+having Sandfly-borne:16
+have Postprocedural:4
+have Viral:28
+Germiston:9
+MTB -:9
+have Ganjam:2
+III. I:12
+the Enteroviral:2
+catarrhal fever:45
+suffering Double:2
+periodic fever:153
+South African:18
+have Pontiac:4
+treatment. I'm:1
+Hayfever. I:6
+Chapare virus.:18
+suffering Inkoo:1
+had Dromedary:2
+have (California:4
+suffering Quotidien:2
+without encephalitis.:9
+having Sylvan:2
+Wesselsbron fever.:18
+Filoviral haemorrhagic:9
+from Sepik:2
+from [X]Typhus:2
+II. I'm:2
+had Feverish:4
+the Elephantoid:1
+[fever]). Had:1
+syndrome.:144
+San Joaquin:18
+suffering Examination:2
+suffering Anti-Yellow:2
+suffering Pretibial:1
+from Brown:2
+Rat:27
+from Cough:2
+from Omsk:6
+Congo-Crimean haemorrhagic:9
+characterized:9
+Irregular fever:9
+Mud:9
+nodule. I'm:1
+Asian hemorrhagic:9
+[pollen]:18
+from Crimean:7
+(navigational:198
+0.5units/dose:18
+Marseilles fever.:9
+from Bullis:1
+Guama:18
+suffering [D]Fever:7
+unspecified. Had:10
+from Kew:1
+[trachoma]).:9
+Malt:9
+psitacci. I'm:1
+suffering Vesicular:1
+type. Had:2
+suffering VHF:2
+suffering Izumi:2
+fever). I'm:5
+fall-crisis. I've:2
+have Falling:4
+fall-crisis (finding).:18
+from Drug:2
+poisoning of:18
+(procedure). I've:31
+[V]Screening for:54
+suffering Notification:4
+had Maguari:4
+temperature:18
+having Crimean-Congo:12
+Intentional:27
+having Glandular:14
+the BSQ:1
+having Aphthous:2
+having Yellow:104
+fever-gradual:45
+Africa (disorder):9
+fall of:45
+Grain fever.:9
+had BHF:4
+immunodeficiency virus:9
+AIDS with:18
+Hemorrhagic fever::18
+suffering Hay:10
+the Piry:1
+vial:9
+- intermittent.:18
+have Ross:8
+involvement.:54
+the Bullis:1
+suffering Sandfly:22
+screening.:9
+[Oroya:18
+suffering (Milk:2
+from Shuni:1
+NOS. I've:48
+from Poisoning:4
+suffering Reversed:2
+had Pappataci:2
+Quaranfil fever:27
+have Anti-Yellow:4
+from Oropouche:1
+peruana]):9
+- Rheumatic:9
+Kemerovo tick:9
+syndrome (HIDS).:9
+Dutch type.:9
+AND/OR Mexico:27
+cattle.:18
+asthmaticus).:9
+had HFRS:4
+(California viral:18
+have Hyper-IgD:6
+Typhoid and:18
+fever pharyngitis.:9
+[trachoma]):9
+Chills and:18
+have Spiking:4
+had Pel:4
+[pyrexia] symptoms:9
+suffering Childbed:1
+continuous.:18
+Aphthous fever.:9
+having ITQ:2
+have Wyeomyia:2
+have Simian:12
+- character:45
+group. Had:10
+with Thrombocytopenia:9
+Brucella,:18
+rickettsii, spotted:18
+Streptobacillary fever.:9
+of Western:36
+had Canicola:4
+fever]. I:6
+the Pattern:3
+Arboviral haemorrhagic:9
+immunisation. Had:2
+having Neonatal:4
+Africa.:63
+registered. Had:2
+thrombocytopenia:18
+Other tick-borne:45
+had H/O::10
+have Metal-fume:4
+having Spondweni:4
+risk for:36
+(Lone:18
+from Meningococcal:2
+have Sindbis:4
+African:153
+suffering Spelters':2
+Paulo fever.:9
+endocarditis. I:18
+from [X]Mosquito-borne:2
+vial. I'm:1
+having Fever:92
+Sandfly fever:216
+Mexico (disorder):9
+have Spirillary:6
+from TRAPS:1
+have Pestilential:2
+siberica. I:6
+suffering SFTS:1
+from Breakbone:1
+the Inkoo:1
+Guaitara fever.:9
+Fever co-occurrent:18
+the Carditis:2
+due:387
+had Postoperative:4
+have MEF:2
+having Irregular:4
+Rickettsia, spotted:18
+having Red:4
+- pollens.:9
+having Plateau:4
+from Ossa:1
+Sheep-associated:18
+Zinc-fume:9
+sweating.:9
+NAD.:18
+suffering AHF:2
+suffering [X]Arthropod-borne:3
+Query fever.:9
+[V]Yellow fever:27
+had Mosquito-borne:108
+fever encephalitis.:9
+general (finding).:18
+co-occurrent with:9
+the Serogroup:4
+the European:1
+the [D]Persistent:3
+the Charcot's:1
+Africa. I:42
+have Factitious:4
+having Swinging:4
+from Kemerovo:2
+had Apeu:2
+(Viral:18
+DNA.:18
+from Fast:1
+having Rising:4
+irregular (context-dependent:9
+have Ilesha:2
+flavivirus hemorrhagic:54
+abnormality:18
+registered.:18
+suffering [Temperature]:2
+from Katamaya:1
+or [Argentine]:27
+haemorrhagic fever.:548
+haemorrhagic fever,:90
+type. I'm:2
+tick bite:18
+Polymer fume:18
+suffering Urban:2
+rickettsii. I'm:2
+suffering Congo:7
+(fever).:9
+from India:3
+the Yellow:52
+have Congo-Crimean:6
+from Spiking:2
+Injection:9
+fever). Had:5
+with periodic:27
+from Junin:2
+education (procedure).:9
+dust] (disorder).:9
+had Sylvatic:2
+NOS) (disorder).:9
+suffering Spondweni:2
+from Catarrhal:1
+milk fever.:9
+Aseptic:18
+acid. I:6
+Ross river:45
+or [Chikungunya]:27
+Mexico (disorder).:18
+Spiking:18
+not disease.:9
+have Hartebeest:2
+injection. I'm:1
+Tick-borne:279
+Semliki:18
+Crimean-Congo.:18
+suffering Slightly:2
+had Adenoviral:4
+vaccine:288
+the Western:2
+Gradual fall:18
+the Haemoglobinuric:1
+Murutucu:9
+Bovine:72
+the Allergy::2
+Murutuca:9
+the Guama:1
+had Pel-Ebstein:2
+had Cyclic:2
+States. I:6
+BSQ:9
+having India:6
+have [D]Persistent:6
+Streptobacillus moniliformis.:9
+fast:54
+having Rock:2
+from Human:2
+[allergic] or:18
+suffering Shipping:3
+cloth:9
+have Hemorrhagic:30
+have Feels:10
+suffering Everglades:1
+associated:72
+have ITQ:2
+allergen. Had:3
+asthmaticus). I'm:1
+suffering Uveoparotid:1
+Dengue fever:18
+have Congo:14
+to Bartonella:9
+had Ribonucleic:8
+having Apeu:2
+the Colorado:13
+scarlet fever.:27
+TNF:36
+with multiple:9
+suffering Unspecified:2
+the Oroya:2
+from [X]Relapsing:2
+having Falling:4
+from Injection:1
+the Intermittent:4
+the Far:2
+group IgM.:18
+the Mycoplasmal:4
+tick fever.:126
+to Leptospira:9
+fever virus.:387
+fever virus,:9
+Boutonneuse fever:27
+suffering Caraparu:1
+or [Oroya:18
+Canine haemorrhagic:9
+the Oriboca:1
+suffering Saddleback:1
+had Izumi:4
+having Mayaro:4
+Continuous fever.:9
+having Anti-Rickettsia:4
+to unspecified:18
+IgG. I've:8
+Shipping fever.:18
+Lujo:45
+myocarditis. I'm:3
+Haemorrhagic fever::36
+suffering African:13
+have Filoviral:6
+Blackwater:9
+the Notification:4
+Undulant:18
+suffering HFRS:2
+suffering Timorian:2
+acid:126
+conjunctivitis. I've:2
+from Maguari:2
+have Brown:4
+suffering Mosquito-borne:54
+from Seven-day:1
+Spelters':18
+pharyngitis. Had:1
+having Spring:2
+Batai:18
+the Spelters':2
+have Madrid:2
+ITQ -:9
+of rheumatic:36
+having Rift:20
+(catscratch:18
+Disorder:18
+hot/feverish. I've:1
+- Argentinian:18
+have Rising:4
+or (extrinsic:18
+Intermittent fever:9
+had GRO:2
+NOS (finding).:81
+have Asthma::4
+detected.:9
+fall-lysis:27
+irregular. I'm:2
+0.5unts/dose:18
+suffering Anti-Colorado:2
+the [X]Arthropod-borne:3
+from:1608
+Kunjin fever.:9
+the [X]Spotted:2
+having Classical:10
+acid. I've:1
+examination:621
+have Thogoto:2
+infection:27
+Bartonellosis:18
+Japanese autumnal:9
+heart involvement.:54
+heart involvement,:9
+the Nanukayami:1
+&/or:18
+Kedani fever:9
+IgM. Had:8
+of Rift:18
+Low grade:9
+have Burdwan:2
+Spirillary fever:9
+the Marshall:1
+syndrome:153
+the Boutonneuse:3
+Quintan fever.:9
+fever, scrub:9
+from Chikungunya:5
+rigors. I've:1
+had Russian:4
+hot/feverish.:9
+Quartan fever.:9
+Humidifier fever:9
+mosquito-borne:54
+have Rat:6
+suffering Rheumatic:11
+the Myoclonus:2
+fall-crisis. I:12
+allergen. I'm:3
+the Crimean-Congo:6
+contraindicated. Had:1
+from Haverhill:1
+had VHF:4
+the Trench:2
+from Serogroup:4
+Oroya fever.:9
+suffering Manzanilla:2
+from [X]Other:12
+the RhF:1
+from Remittent:2
+from Classical:5
+Hazara haemorrhagic:9
+to Ephemeral:18
+assay. Had:10
+the Breakbone:1
+with valvulitis.:18
+Chagres:9
+I have:1608
+had Junin:4
+Cat:27
+the Postvaccination:1
+Marseilles:9
+have Feverish:4
+from Pretibial:1
+[allergic:18
+rickettsii. I've:2
+suffering On:62
+Korean haemorrhagic:27
+from (Hay:4
+suffering [V]Yellow:3
+Neutropenic:9
+having Feverfew:10
+Chapare:45
+substance. I've:1
+intermittent.:18
+from Myocarditis:2
+having Intentional:6
+had Pahvant:2
+having Deerfly:2
+from Viral:14
+from Kedani:2
+injection. Had:1
+Bwamba fever.:9
+the Lahore:1
+Marburg hemorrhagic:9
+had Hartebeest:2
+suffering Postvaccination:1
+have Requires:4
+Allergy::18
+have Post:24
+the Marituba:1
+Ebstein:18
+sandfly fever:9
+North:90
+suffering Infusion:1
+unknown:27
+group (organism).:36
+from Pericarditis:2
+remittent fever.:9
+G antibody:72
+having Three:2
+had Cat-bite:4
+or (fever::18
+Sylvatic yellow:9
+vaccination (situation).:18
+- fever:576
+from FMF:1
+Zinga:9
+having Venezuelan:12
+suffering Meningitis:4
+Boutonneuse fever.:18
+have Hemoglobinuric:2
+variation. Had:1
+the Cane:1
+than 100.4:18
+having Q:46
+[enteric]. I'm:1
+have Other:38
+the [X]Typhus:2
+group antigen.:9
+character NOS.:18
+had Endocarditis:4
+suffering Enteroviral:2
+have Human:4
+the Gibraltar:1
+hepatic fever.:9
+agglutinins:18
+having AIDS:4
+Spirillum minus:9
+Shuni:9
+States AND/OR:18
+[Ambiguous]. I:54
+asthmaticus). Had:1
+taken NOS.:18
+Newborn:9
+from KHF:2
+the Accidental:3
+Southwest U.S.:36
+titre. I:6
+Mexico. Had:3
+level (procedure).:18
+syringe. I'm:1
+variation (finding).:9
+from Abattoir:1
+mosquito-borne fever:27
+louse-borne. I'm:1
+had Mucambo:4
+IV. Had:2
+have Rocky:18
+or [yellow:18
+virus subgroup,:9
+virus subgroup.:9
+(situation). I'm:20
+having Tahyna:4
+had Omsk:12
+had Brass:2
+suffering BSQ:1
+level. I've:2
+products] or:18
+without status:18
+Naples virus.:18
+acquired:18
+having Chikungunya:10
+from Tertian:2
+suffering Myoclonus:2
+Ebola:90
+suffering Undulant:2
+suffering Kedani:2
+suffering Hartebeest:1
+suffering Feverish:2
+having [V]Yellow:6
+suffering Guaroa:1
+American dog:9
+ribonucleic:63
+- Bolivian:18
+recon)+diluent. I:6
+having Viral:28
+NOS). Had:1
+RR:9
+RNA:45
+having Tensaw:2
+Tribec fever.:9
+suffering Lahore:1
+remittent:45
+Katamaya fever.:9
+the Malayan:2
+suffering Ross:4
+[fever]):9
+had Dum:2
+from Sicilian:1
+(organism). Had:23
+the Shuni:1
+had American:4
+suffering Russian:2
+conjunctivitis. I'm:2
+have KHF:4
+Active:72
+suffering Uganda:2
+for Ebola:36
+Intermittent:36
+suffering RB:1
+suffering Elokomin:2
+Sennetsu:18
+[D]Persistent:27
+suffering RR:1
+Ag. I'm:4
+fever group.:63
+Etiocholanolone:18
+CDU:9
+had Fever.:2
+had Changuinola:2
+had Prolonged:4
+protease.:9
+from Dromedary:1
+have Measurement:12
+- Crimean:18
+I think:1608
+had Spirillary:6
+typhus, Q:18
+had Arenaviral:8
+had At:8
+cerebrospinal:18
+[acute]).:9
+Hayfever. Had:1
+virus fever:90
+suffering Erythema:2
+suffering Spotted:15
+- Viral:18
+MTB:9
+the Black:2
+Tick-borne hemorrhagic:27
+Biphasic:18
+fever registered.:18
+Brown dog:18
+suffering Tribec:1
+the Anti-Colorado:2
+States:27
+- Rio:9
+ARF:9
+have Tensaw:2
+had Hypothalamic:2
+have Spirillum:4
+the Orungo:1
+chills. I've:1
+having Catu:2
+rickettsioses) or:18
+intermittent. Had:2
+[acute]). I'm:1
+from TNF:3
+[D]Persistent fever:18
+Argentine:36
+have Fast:2
+rapid:9
+Far:18
+having Rio:4
+had Pharyngoconjunctival:2
+-RETIRED-. I'm:7
+FTLS:18
+Drug:18
+having Charcot's:2
+Caucasus. I've:1
+having Postoperative:4
+have Pattern:6
+have Nepuyo:2
+poisoning.:27
+suffering FTLS:2
+having Abattoir:2
+having Phlebotomus:6
+have Breakbone:2
+gradual rise.:18
+Lahore:9
+Sylvan:9
+Manzanilla:18
+fume fever:9
+the Arbovirus:4
+A fever.:9
+the Mite-borne:4
+allergens]:18
+[enteric]. I:6
+Bebaru fever.:9
+quintana. I'm:2
+having Orungo:2
+TRAPS:9
+Nile fever.:18
+suffering GRO:1
+suffering Spiking:2
+Rochalimaea quintana.:9
+had Postprocedural:4
+Kunjin:18
+sweating (finding).:9
+have Lahore:2
+immunisation. I:12
+the Hyperimmunoglobulin:2
+origin. I've:2
+NEC (context-dependent:9
+having Staircase:4
+or [house:18
+the Wesselsbron:2
+had Lassa:8
+have Foundrymen's:2
+America. Had:6
+had Examination:4
+had Congo-Crimean:6
+suffering Education:2
+registered (context-dependent:9
+Transfusion:9
+have Eastern:4
+the SFTS:1
+Elokomin:18
+Anti-Yellow:18
+the Izumi:2
+from Malta:1
+had Fast:2
+having Katamaya:2
+have Indiana:2
+having AHF:4
+from Adverse:5
+had Anti-Yellow:4
+I. I:12
+having Pretibial:2
+necrosis:45
+from Periodic:5
+arthropod-borne haemorrhagic:27
+Hypothalamic fever.:9
+or animal:18
+suffering FMF:1
+fever (finding).:423
+have Phase:6
+had Asthma::4
+NOS). I:6
+without encephalitis:9
+other:36
+Five:9
+Tick:54
+in acute:18
+suffering Congo-Crimean:3
+suffering Copper:2
+had Haverhill:2
+having Bunyamwera:2
+from Postvaccination:1
+Picket:9
+the Epidemic:2
+suspected. I've:2

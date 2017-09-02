@@ -1,0 +1,24 @@
+Text,Intent,entitie1,entitie2
+I have fever,assessment:0.575000971576,medicine:fever, ,assessment:0.575000971576,automobile:0.424999028424
+I have cold,assessment:0.644609139415,medicine:cold, ,assessment:0.644609139415,automobile:0.355390860585
+I'm suffering from fever,assessment:0.70483826158,medicine:from fever, ,assessment:0.70483826158,automobile:0.29516173842
+I had paracetamol,assessment:0.878937789507,medicine:paracetamol, ,assessment:0.878937789507,automobile:0.121062210493
+I have diarrhea,assessment:0.575000971576,medicine:diarrhea, ,assessment:0.575000971576,automobile:0.424999028424
+
+
+i have a car,automobile:0.925565778825,owned:car, ,automobile:0.925565778825,assessment:0.0744342211747
+i have coffee,assessment:0.561176752517,medicine:coffee, ,assessment:0.561176752517,automobile:0.438823247483
+i've been going out,assessment:0.740738743618,medicine:out, ,assessment:0.740738743618,automobile:0.259261256382
+i want mexican food,assessment:0.766507093314,medicine:mexican food, ,assessment:0.766507093314,automobile:0.233492906686
+i bought a car,automobile:0.851123358937,owned:car, ,automobile:0.851123358937,assessment:0.148876641063
+how are you,automobile:0.521392015433,medicine:you, ,automobile:0.521392015433,assessment:0.478607984567
+let's go,assessment:0.86945422259, , ,assessment:0.86945422259,automobile:0.13054577741
+I will come,automobile:0.571262266736, , ,automobile:0.571262266736,assessment:0.428737733264
+I have done that,assessment:0.631038768888,medicine:that, ,assessment:0.631038768888,automobile:0.368961231112
+I wil watch TV,assessment:0.664819399803,medicine:TV, ,assessment:0.664819399803,automobile:0.335180600197
+I have homework,assessment:0.574554652261,medicine:homework, ,assessment:0.574554652261,automobile:0.425445347739
+I have homework to do,assessment:0.59160542527, , ,assessment:0.59160542527,automobile:0.40839457473
+I have a cycle,automobile:0.902186788376,owned:cycle, ,automobile:0.902186788376,assessment:0.097813211624
+I have a tumor,automobile:0.873439552017,owned:tumor, ,automobile:0.873439552017,assessment:0.126560447983
+
+

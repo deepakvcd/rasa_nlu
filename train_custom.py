@@ -4,14 +4,14 @@ symptom_templates = [
     "I'm having",
     "I was suffering from",
     "I have a",
-    #  "I've had",
-    # "I also had",
-    # "I do have",
-    # "Had the",
-    # "I was also having",
-    # "I was having",
-    # "I'm suffering from",
-    # "I think I have",
+    "I've had",
+    "I also had",
+    "I do have",
+    "Had the",
+    "I was also having",
+    "I was having",
+    "I'm suffering from",
+    "I think I have",
 ]
 
 #diseases1 = ["fever", "chills", "common cold", "back pain"]
@@ -38,7 +38,8 @@ test_len = len(diseases) - train_len
 assessment_templates = [
     "I did take",
     "I took some",
-    "I had some"
+    "I had some",
+    "I had"
 ]
 
 f = open("medicine.json", "r")

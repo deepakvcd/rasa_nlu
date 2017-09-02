@@ -30,6 +30,7 @@ negative = [
     "I have a tumor"
 ]
 
+
 def serialize(response):
     entities = response["entities"]
     intentRanking = response["intent_ranking"]

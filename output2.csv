@@ -1,0 +1,12 @@
+Text,Intent,entitie1,entitie2
+I have fever,assessment:0.614713475297, , ,assessment:0.614713475297,symptom:0.385286524703
+I have cold,assessment:0.870179705757, , ,assessment:0.870179705757,symptom:0.129820294243
+I'm suffering from fever,symptom:0.989222074839, , ,symptom:0.989222074839,assessment:0.0107779251612
+mexican food,symptom:0.985046685342, , ,symptom:0.985046685342,assessment:0.0149533146583
+
+
+I have a car,assessment:0.625526501508, , ,assessment:0.625526501508,symptom:0.374473498492
+I have coffee,assessment:0.915164079384, , ,assessment:0.915164079384,symptom:0.0848359206159
+I've been going out,assessment:0.836184734673, , ,assessment:0.836184734673,symptom:0.163815265327
+
+

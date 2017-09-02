@@ -1,0 +1,24 @@
+Text,Intent,entitie1,entitie2
+I have fever,automobile:0.557225288228,medicine:fever, ,automobile:0.557225288228,assessment:0.442774711772
+I have cold,automobile:0.5,medicine:cold, ,automobile:0.5,assessment:0.5
+I'm suffering from fever,assessment:0.913654631965,medicine:from fever, ,assessment:0.913654631965,automobile:0.0863453680349
+I had paracetamol,assessment:0.924052141772,medicine:paracetamol, ,assessment:0.924052141772,automobile:0.0759478582276
+I have diarrhea,assessment:0.523873475549,medicine:diarrhea, ,assessment:0.523873475549,automobile:0.476126524451
+
+
+i have a car,automobile:0.895397759478,owned:car, ,automobile:0.895397759478,assessment:0.104602240522
+i have coffee,automobile:0.522836873993,medicine:coffee, ,automobile:0.522836873993,assessment:0.477163126007
+i've been going out,assessment:0.669855511894,medicine:out, ,assessment:0.669855511894,automobile:0.330144488106
+i want mexican food,assessment:0.902000260816,medicine:mexican food, ,assessment:0.902000260816,automobile:0.0979997391841
+i bought a car,automobile:0.5,owned:car, ,automobile:0.5,assessment:0.5
+how are you,assessment:0.922085468636,medicine:you, ,assessment:0.922085468636,automobile:0.0779145313638
+let's go,assessment:0.870185885339, , ,assessment:0.870185885339,automobile:0.129814114661
+I will come,assessment:0.797919287498, , ,assessment:0.797919287498,automobile:0.202080712502
+I have done that,automobile:0.57966061342,medicine:that, ,automobile:0.57966061342,assessment:0.42033938658
+I wil watch TV,assessment:0.707572776763,medicine:TV, ,assessment:0.707572776763,automobile:0.292427223237
+I have homework,automobile:0.636451440259,medicine:homework, ,automobile:0.636451440259,assessment:0.363548559741
+I have homework to do,assessment:0.688393280657, , ,assessment:0.688393280657,automobile:0.311606719343
+I have a cycle,automobile:0.786257662086,owned:cycle, ,automobile:0.786257662086,assessment:0.213742337914
+I have a tumor,automobile:0.825363947926,owned:tumor, ,automobile:0.825363947926,assessment:0.174636052074
+
+

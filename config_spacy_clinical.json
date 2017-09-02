@@ -2,5 +2,6 @@
   "name" : "clinical",
   "pipeline": "spacy_sklearn",
   "path" : "./models",
-  "spacy_model_name":"en_clinical_model"
+  "spacy_model_name":"en_clinical_model",
+  "server_model_dirs":"clinical"
 }

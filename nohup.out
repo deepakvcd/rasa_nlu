@@ -1,0 +1,55 @@
+INFO:rasa_nlu.data_router:Logging requests to '/Users/kaladhar/Downloads/rasa_nlu/logs/rasa_nlu_log-20170816-201645-14611.log'.
+INFO:rasa_nlu.data_router:Logging requests to '/Users/kaladhar/Downloads/rasa_nlu/logs/rasa_nlu_log-20170816-201645-14612.log'.
+INFO:rasa_nlu.data_router:Loading model 'model_20170816-195727/'...
+INFO:rasa_nlu.data_router:Loading model 'model_20170816-194645/'...
+INFO:rasa_nlu.components:Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+INFO:rasa_nlu.components:Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+INFO:__main__:Started http server on port 5000
+INFO:__main__:Started http server on port 8000
+2017-08-16 20:16:52+0530 [-] Log opened.
+2017-08-16 20:16:52+0530 [-] Log opened.
+2017-08-16 20:16:52+0530 [-] Site starting on 8000
+2017-08-16 20:16:52+0530 [-] Site starting on 5000
+2017-08-16 20:16:52+0530 [-] Starting factory <twisted.web.server.Site instance at 0x11615b710>
+2017-08-16 20:16:52+0530 [-] Starting factory <twisted.web.server.Site instance at 0x10f4e6710>
+2017-08-16 20:16:56+0530 [-] Received SIGTERM, shutting down.
+2017-08-16 20:16:56+0530 [twisted.web.server.Site] (TCP Port 8000 Closed)
+2017-08-16 20:16:56+0530 [-] Stopping factory <twisted.web.server.Site instance at 0x11615b710>
+2017-08-16 20:16:56+0530 [-] Main loop terminated.
+2017-08-16 20:16:56+0530 [-] Received SIGTERM, shutting down.
+2017-08-16 20:16:56+0530 [twisted.web.server.Site] (TCP Port 5000 Closed)
+2017-08-16 20:16:56+0530 [-] Stopping factory <twisted.web.server.Site instance at 0x10f4e6710>
+2017-08-16 20:16:56+0530 [-] Main loop terminated.
+INFO:rasa_nlu.data_router:Logging requests to '/Users/kaladhar/Downloads/rasa_nlu/logs/rasa_nlu_log-20170816-201656-14710.log'.
+INFO:rasa_nlu.data_router:Loading model 'model_20170816-195727/'...
+INFO:rasa_nlu.components:Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+INFO:__main__:Started http server on port 5000
+2017-08-16 20:17:02+0530 [-] Log opened.
+2017-08-16 20:17:02+0530 [-] Site starting on 5000
+2017-08-16 20:17:02+0530 [-] Starting factory <twisted.web.server.Site instance at 0x119cca710>
+2017-08-16 20:17:27+0530 [-] Received SIGINT, shutting down.
+2017-08-16 20:17:27+0530 [twisted.web.server.Site] (TCP Port 5000 Closed)
+2017-08-16 20:17:27+0530 [-] Stopping factory <twisted.web.server.Site instance at 0x119cca710>
+2017-08-16 20:17:27+0530 [-] Main loop terminated.
+INFO:rasa_nlu.data_router:Logging requests to '/Users/kaladhar/Downloads/rasa_nlu/logs/rasa_nlu_log-20170816-201728-14775.log'.
+INFO:rasa_nlu.data_router:Logging requests to '/Users/kaladhar/Downloads/rasa_nlu/logs/rasa_nlu_log-20170816-201728-14776.log'.
+INFO:rasa_nlu.data_router:Loading model 'model_20170816-195727/'...
+INFO:rasa_nlu.data_router:Loading model 'model_20170816-194645/'...
+INFO:rasa_nlu.components:Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+INFO:rasa_nlu.components:Added 'nlp_spacy' to component cache. Key 'nlp_spacy-en'.
+INFO:__main__:Started http server on port 5000
+2017-08-16 20:17:34+0530 [-] Log opened.
+2017-08-16 20:17:34+0530 [-] Site starting on 5000
+2017-08-16 20:17:34+0530 [-] Starting factory <twisted.web.server.Site instance at 0x11a29a710>
+INFO:__main__:Started http server on port 8000
+2017-08-16 20:17:34+0530 [-] Log opened.
+2017-08-16 20:17:34+0530 [-] Site starting on 8000
+2017-08-16 20:17:34+0530 [-] Starting factory <twisted.web.server.Site instance at 0x11ac90710>
+2017-08-16 20:19:10+0530 [-] Received SIGTERM, shutting down.
+2017-08-16 20:19:10+0530 [twisted.web.server.Site] (TCP Port 8000 Closed)
+2017-08-16 20:19:10+0530 [-] Stopping factory <twisted.web.server.Site instance at 0x11ac90710>
+2017-08-16 20:19:10+0530 [-] Main loop terminated.
+2017-08-16 20:19:10+0530 [-] Received SIGTERM, shutting down.
+2017-08-16 20:19:10+0530 [twisted.web.server.Site] (TCP Port 5000 Closed)
+2017-08-16 20:19:10+0530 [-] Stopping factory <twisted.web.server.Site instance at 0x11a29a710>
+2017-08-16 20:19:10+0530 [-] Main loop terminated.

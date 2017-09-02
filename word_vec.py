@@ -56,8 +56,37 @@ def load_embeddings(file_name):
     return wv, vocabulary
 
 
+def createWordVecOf():
+    sentences = gensim.models.word2vec.LineSentence("./try.txt")
+    #temp_trans = gensim.models.Phrases(sentences, delimiter="_")
+    bigram_transformer = gensim.models.Phrases(sentences, delimiter="_", threshold=1, min_count=4)
+    model = gensim.models.Word2Vec(bigram_transformer[sentences], size=300, window=3, min_count=0, workers=4, hs=1)
+    model.wv.save_word2vec_format('try.model.bin', binary=True)
+    f = open("try_words.csv", "w")
+    bigram_transformer.vocab = OrderedDict(sorted(bigram_transformer.vocab.items(), key=lambda t: t[1], reverse=True))
+    for word in bigram_transformer.vocab:
+        f.write(word+","+str(bigram_transformer.vocab[word])+"\n")
+    print(model.wv)
+    model.wv.save_word2vec_format('try_model_vec.txt', binary=False)
+
+
+def drawGraph():
+    embeddings_file = "try_model_vec.txt"
+    wv, vocabulary = load_embeddings(embeddings_file)
+
+    tsne = TSNE(n_components=2, random_state=0)
+    np.set_printoptions(suppress=True)
+    Y = tsne.fit_transform(wv[:1000, :])
+
+    plt.scatter(Y[:, 0], Y[:, 1])
+    for label, x, y in zip(vocabulary, Y[:, 0], Y[:, 1]):
+        plt.annotate(label, xy=(x, y), xytext=(0, 0), textcoords='offset points')
+    plt.show()
+
 if __name__ == '__main__':
-    main()
+    #main()
+    createWordVecOf()
+    #drawGraph()
 # model = KeyedVectors.load_word2vec_format('PubMedw2v.bin', binary=True)
 # model.save_word2vec_format('PubMedw2v.txt', binary=False)
 
