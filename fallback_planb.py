@@ -1,35 +1,10 @@
 import requests
 import json
-positive = [
-    "I have fever",
-    "I have cold",
-    "I'm suffering from fever",
-    "I had paracetamol",
-    "I have diarrhea",
-    "i have a car",
-    "i have coffee",
-    "i've been going out",
-    "i want mexican food",
-    "i bought a car",
-    "how are you",
-    "let's go",
-    "I will come",
-    "I have done that",
-    "I wil watch TV",
-    "I have homework",
-    "I have homework to do",
-    "I have a cycle",
-    "I have a tumor",
-    "how are you ?",
-    "its a good day"
-
-]
 f = open("testdata.json", "r")
 
-#positive = json.load(f)
+positive = json.load(f)
 
 symptom_params = {"sources": ["SNOMEDCT_US", "ICD10CM"],
-                  #"sems_sty" : ["T033", "T184", "T039", "T047", "T079", "T029"],
                   "sems": ["fndg", "sosy", "phsf", "dsyn", "tmco", "blor", "bpoc", "bdsu", "qlco", "qnco", "anst",
                            "phsu", "clnd", "antb", "bhvr"
                       , "biof", "horm", "humn", "hcpp", "inbe", "inpo", "medd", "menp", "ortf", "virs", "vita"]}

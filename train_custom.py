@@ -1,37 +1,40 @@
 import json
 import random
 symptom_templates = [
-    "I'm having",
-    "I was suffering from",
+    "I am having",
     "I have a",
-    "I've had",
-    "I also had",
+    "I have had",
     "I do have",
-    "Had the",
     "I was also having",
     "I was having",
-    "I'm suffering from",
     "I think I have",
+    "I feel I have",
+    "Could you check if I have",
+    "I am suffering from",
+    "Had the"
 ]
 
-#diseases1 = ["fever", "chills", "common cold", "back pain"]
 f = open("umls2.json", "r")
 json_diseases = json.load(f)
 diseases = []
 for obj in json_diseases:
-    # try:
-    #     str(obj["STR"]).lower()
-    #     diseases.append(str(obj["STR"]).lower())
-    # except:
-    #     pass
     if u' ' not in obj["STR"]:
         diseases.append(str(obj["STR"]).lower())
+    #diseases.append(obj["STR"].encode('ascii', 'ignore').lower())
+
+f = open("symptoms_new.json", "r")
+json_diseases = json.load(f)
+for obj in json_diseases:
+    if u' ' not in obj:
+        diseases.append(str(obj).lower())
+    #diseases.append(obj.encode('ascii', 'ignore').lower())
+
 train_len = int(0.8 * len(diseases))
 test_len = len(diseases) - train_len
-# diseases = []
-# for obj in json_diseases:
-#     print(obj["STR"])
-#     diseases.append(str(obj["STR"]).lower())
+diseases = []
+for obj in json_diseases:
+    print(obj["STR"])
+    diseases.append(str(obj["STR"]).lower())
 
 
 
@@ -43,9 +46,9 @@ assessment_templates = [
 ]
 
 f = open("medicine.json", "r")
-json_mdeicine = json.load(f)
+json_medicine = json.load(f)
 medicine = []
-for obj in json_mdeicine:
+for obj in json_medicine:
     # try:
     #     str(obj["STR"]).lower()
     #     diseases.append(str(obj["STR"]).lower())
@@ -68,18 +71,24 @@ for i in trainRandomnumbersList:
 
 
 test_templates = [
+    "I am having",
     "I have a",
-    "I've got a",
-    "I'm suffering from"
+    "I have had",
+    "I do have",
+    "I was also having",
+    "I was having",
+    "I think I have",
+    "I feel I have",
+    "Could you check if I have"
 ]
-test_senetences = []
+test_sentences = []
 for i in range(0,len(used_indexes)):
     if used_indexes[i] == False:
         for temp in test_templates:
-            test_senetences.append(temp.lower() + " " + diseases[i])
-print(test_senetences)
+            test_sentences.append(temp.lower() + " " + diseases[i])
+print(test_sentences)
 newF = open("testdata.json","w")
-newF.write(json.dumps(test_senetences))
+newF.write(json.dumps(test_sentences))
 
 
 

@@ -1,0 +1,17 @@
+{
+  "symptom_templates": [
+    "I am having",
+    "I have a",
+    "I have had",
+    "I do have",
+    "I was also having",
+    "I was having",
+    "I think I have",
+    "I feel I have",
+    "Could you check if I have"
+  ],
+  "test_templates": [
+    "I am suffering from",
+    "Had the"
+  ]
+}

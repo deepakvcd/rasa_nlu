@@ -1,0 +1,322 @@
+[
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "rhinitis",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5515653732499601,
+      "name": "symptom"
+    },
+    "text": "i am having rhinitis"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "bloating",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5851074975547185,
+      "name": "symptom"
+    },
+    "text": "i am having bloating"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 21,
+        "value": "xeroderma",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5190000189204474,
+      "name": "symptom"
+    },
+    "text": "i am having xeroderma"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 18,
+        "value": "nausea",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5152656629530042,
+      "name": "symptom"
+    },
+    "text": "i am having nausea"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 18,
+        "value": "nausea",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5152656629530042,
+      "name": "symptom"
+    },
+    "text": "i am having nausea"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "erythema",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5156997241268725,
+      "name": "symptom"
+    },
+    "text": "i am having erythema"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 18,
+        "value": "plaque",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.516129985162555,
+      "name": "symptom"
+    },
+    "text": "i am having plaque"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "kyphosis",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5485351091482165,
+      "name": "symptom"
+    },
+    "text": "i am having kyphosis"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 21,
+        "value": "infection",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5150102884822889,
+      "name": "symptom"
+    },
+    "text": "i am having infection"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 25,
+        "value": "hyperglycemia",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5422257820479404,
+      "name": "symptom"
+    },
+    "text": "i am having hyperglycemia"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 18,
+        "value": "nausea",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5152656629530042,
+      "name": "symptom"
+    },
+    "text": "i am having nausea"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 21,
+        "value": "dizziness",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5276301854058302,
+      "name": "symptom"
+    },
+    "text": "i am having dizziness"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 19,
+        "value": "allergy",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5279431940165119,
+      "name": "symptom"
+    },
+    "text": "i am having allergy"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 23,
+        "value": "cholesterol",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5037210547092983,
+      "name": "symptom"
+    },
+    "text": "i am having cholesterol"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "dyslexia",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5316711638052233,
+      "name": "symptom"
+    },
+    "text": "i am having dyslexia"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 22,
+        "value": "dermatitis",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5502831527031374,
+      "name": "symptom"
+    },
+    "text": "i am having dermatitis"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "epilepsy",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.4993868755379134,
+      "name": "symptom"
+    },
+    "text": "i am having epilepsy"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 20,
+        "value": "headache",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5583562987050268,
+      "name": "symptom"
+    },
+    "text": "i am having headache"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 21,
+        "value": "influenza",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5374091029101485,
+      "name": "symptom"
+    },
+    "text": "i am having influenza"
+  },
+  {
+    "entities": [
+      {
+        "start": 12,
+        "entity": "disease",
+        "end": 23,
+        "value": "candidiasis",
+        "extractor": "ner_mitie"
+      }
+    ],
+    "intent": {
+      "confidence": 0.5106405411595212,
+      "name": "symptom"
+    },
+    "text": "i am having candidiasis"
+  }
+]

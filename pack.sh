@@ -30,7 +30,6 @@ cd ../../..
 python -m rasa_nlu.train -c config_spacy_clinical.json  --data="data/examples/rasa/umls.json"
 python -m rasa_nlu.train -c config_spacy.json  --data="data/examples/rasa/umls.json"
 elif [ $1 == "ner_train" ]; then
-python -m rasa_nlu.train -c config_spacy_clinical.json --data="data/examples/rasa/umls.json"
 python -m rasa_nlu.train -c config_mitie.json --data="data/examples/rasa/umls.json"
 
 fi
@@ -39,5 +38,4 @@ cd models
 newNER=$(ls -td -- */ | head -n 1)
 NER=$(ls -td -- */ | head -n 2 | tail -n 1)
 cd ..
-python -m rasa_nlu.server -c config_spacy.json --port=5000 &
 python -m rasa_nlu.server -c config_mitie.json --port=5001
