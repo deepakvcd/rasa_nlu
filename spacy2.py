@@ -3,7 +3,7 @@ from spacy.vocab import Vocab
 
 clinical_nlp = spacy.load('en')
 nlp = spacy.load('en')
-txt = open("./PubMedw2v.txt", 'r')
+txt = open("./try_model_vec.txt", 'r')
 #clinical_nlp.vocab.load_vectors(txt)
 
 # newVocab = Vocab()

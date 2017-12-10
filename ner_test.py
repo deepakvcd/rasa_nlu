@@ -8,7 +8,8 @@ positive = [
     "I have cold",
     "I'm suffering from fever",
     "I had paracetamol",
-    "I have diarrhea"
+    "I have diarrhea",
+    "I have tumor"
 
 ]
 
@@ -27,7 +28,7 @@ negative = [
     "I have homework",
     "I have homework to do",
     "I have a cycle",
-    "I have a tumor"
+
 ]
 
 
@@ -50,13 +51,26 @@ def serialize(response):
 
     return ",".join(row)
 all_rows = []
-
+def serialize_mitie(response):
+    entities = response["entities"]
+    text = response["text"]
+    intent = response["intent"]
+    if intent == None:
+        return ''
+    row = [text, intent["name"],str(intent["confidence"])]
+    i = 0
+    for ent in entities[0:2]:
+        row.append(ent["entity"]+":"+ent["value"])
+        i += 1
+    row.extend([" "]*(2-i))
+    return ",".join(row)
 def makeCall(statementsArray, port):
     global all_rows
     for statement in statementsArray:
         res = requests.get("http://localhost:" + str(port) +"/parse", {"q": statement})
         res_json = res.json()
-        all_rows.append(serialize(res_json))
+        print(res_json)
+        all_rows.append(serialize_mitie(res_json))
     all_rows.append("\n")
 def clinical():
     global all_rows
@@ -68,14 +82,14 @@ def clinical():
         f.write(row+"\n")
 def normal():
     global all_rows
-    all_rows = ["Text,Intent,entitie1,entitie2"]
+    all_rows = ["Text,Intent,prob,entitie1,entitie2"]
     makeCall(positive, 5001)
     makeCall(negative, 5001)
     f = open("normal_vocab.csv","w")
     for row in all_rows:
         f.write(row+"\n")
-clinical()
-print(all_rows)
+# clinical()
+# print(all_rows)
 normal()
 print(all_rows)
 print("done")

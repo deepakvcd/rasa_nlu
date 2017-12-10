@@ -1,8 +1,8 @@
 {
-  "pipeline": "mitie",
-  "mitie_file": "/home/anupkawtia/Downloads/MITIE-models/english/total_word_feature_extractor.dat",
+  "pipeline": "mitie_sklearn",
+  "mitie_file": "/Users/kaladhar/Downloads/MITIE-models/english/total_word_feature_extractor.dat",
   "path" : "./models",
   "data" : "./data/examples/rasa/umls.json",
-  "name" : "normal_mitie",
-  "server_model_dirs":"normal_mitie"
+  "name" : "normal_mitie1",
+  "server_model_dirs":"normal_mitie1"
 }

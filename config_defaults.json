@@ -2,7 +2,7 @@
   "name": null,
   "pipeline": [],
   "language": "en",
-  "num_threads": 1,
+  "num_threads": 8,
   "max_training_processes": 1,
   "path": "models",
   "response_log": "logs",
@@ -24,5 +24,9 @@
   "entity_crf_features": [
     ["low", "title", "upper", "pos", "pos2"],
     ["bias", "low", "word3", "word2", "upper", "title", "digit", "pos", "pos2", "pattern"],
-    ["low", "title", "upper", "pos", "pos2"]]
+    ["low", "title", "upper", "pos", "pos2"]],
+    "intent_classifier_sklearn": {
+      "C": [1, 2, 5, 10, 20, 100],
+      "kernel": "rbf"
+  }
 }

@@ -83,6 +83,7 @@ class SklearnIntentClassifier(Component):
         from sklearn.model_selection import GridSearchCV
         from sklearn.svm import SVC
         import numpy as np
+        import matplotlib.pyplot as plt
 
         labels = [e.get("intent") for e in training_data.intent_examples]
 
@@ -104,7 +105,26 @@ class SklearnIntentClassifier(Component):
                                     param_grid=tuned_parameters, n_jobs=config["num_threads"],
                                     cv=cv_splits, scoring='f1_weighted', verbose=1)
 
-            self.clf.fit(X, y)
+            temp_clf = self.clf.fit(X, y)
+
+            # create a mesh to plot in
+            x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
+            y_min, y_max = X[:, 1].min() - 1, X[:, 1].max() + 1
+            h = abs((x_max / x_min) / 100)
+            xx, yy = np.meshgrid(np.arange(x_min, x_max, h),
+                                 np.arange(y_min, y_max, h))
+
+            plt.subplot(1, 1, 1)
+            Z = temp_clf.predict(np.c_[xx.ravel(), yy.ravel()])
+            Z = Z.reshape(xx.shape)
+            plt.contourf(xx, yy, Z, cmap=plt.cm.Paired, alpha=0.8)
+            plt.scatter(X[:, 0], X[:, 1], c=y, cmap=plt.cm.Paired)
+            plt.xlim(xx.min(), xx.max())
+            plt.title('SVC with linear kernel')
+
+            plt.show()
+
+            print("graph show")
 
     def process(self, message, **kwargs):
         # type: (Message, **Any) -> None

@@ -14,28 +14,29 @@ symptom_templates = [
     "Had the"
 ]
 
-f = open("umls2.json", "r")
-json_diseases = json.load(f)
-diseases = []
-for obj in json_diseases:
-    if u' ' not in obj["STR"]:
-        diseases.append(str(obj["STR"]).lower())
+# f = open("umls2.json", "r")
+# json_diseases = json.load(f)
+# diseases = ["fever", "malaria", "cold", "headache", "typhoid"]
+# for obj in json_diseases:
+#     if u' ' not in obj["STR"]:
+#         diseases.append(str(obj["STR"]).lower())
     #diseases.append(obj["STR"].encode('ascii', 'ignore').lower())
 
+diseases = []
 f = open("symptoms_new.json", "r")
 json_diseases = json.load(f)
 for obj in json_diseases:
     if u' ' not in obj:
         diseases.append(str(obj).lower())
     #diseases.append(obj.encode('ascii', 'ignore').lower())
-
+diseases = ["fever", "malaria", "cold", "headache", "typhoid"]
 train_len = int(0.8 * len(diseases))
 test_len = len(diseases) - train_len
-diseases = []
-for obj in json_diseases:
-    print(obj["STR"])
-    diseases.append(str(obj["STR"]).lower())
-
+# diseases = []
+# for obj in json_diseases:
+#     print(obj)
+#     diseases.append(obj.lower())
+#
 
 
 assessment_templates = [
@@ -127,7 +128,7 @@ def createNERData():
     global diseases1
     global medicine
     getCommonexamples(symptom_templates, diseases_test, "disease", "symptom")
-    getCommonexamples(assessment_templates, medicine, "medicine", "assessment")
+    #getCommonexamples(assessment_templates, medicine, "medicine", "assessment")
 
     rasa_nlu["rasa_nlu_data"] = {
         "common_examples": common_examples

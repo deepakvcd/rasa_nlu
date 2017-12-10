@@ -46,7 +46,7 @@ def categorize(resp):
         elif obj["intent"]["name"] not in category_resp:
             category_name = obj["intent"]["name"]
             category_resp[category_name] = []
-        if obj["intent"]["confidence"] > 0.4:
+        if obj["intent"]["confidence"] > 0.6:
             category_resp[category_name].append(obj["text"])
     return category_resp
 
@@ -97,7 +97,7 @@ def makeCall(statementsArray, port):
     #all_rows.append("\n")
     print(json.dumps(all_rows))
     print(categorize(all_rows))
-    lambdApi(categorize(all_rows))
+    #lambdApi(categorize(all_rows))
 
 def serializeHavocResp(resp):
     for key,value in resp.iteritems():

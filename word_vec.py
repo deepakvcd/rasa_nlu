@@ -57,7 +57,7 @@ def load_embeddings(file_name):
 
 
 def createWordVecOf():
-    sentences = gensim.models.word2vec.LineSentence("./try.txt")
+    sentences = gensim.models.word2vec.LineSentence("./clinical.txt")
     #temp_trans = gensim.models.Phrases(sentences, delimiter="_")
     bigram_transformer = gensim.models.Phrases(sentences, delimiter="_", threshold=1, min_count=4)
     model = gensim.models.Word2Vec(bigram_transformer[sentences], size=300, window=3, min_count=0, workers=4, hs=1)

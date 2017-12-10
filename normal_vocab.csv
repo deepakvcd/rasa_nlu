@@ -1,24 +1,24 @@
-Text,Intent,entitie1,entitie2
-I have fever,assessment:0.575000971576,medicine:fever, ,assessment:0.575000971576,automobile:0.424999028424
-I have cold,assessment:0.644609139415,medicine:cold, ,assessment:0.644609139415,automobile:0.355390860585
-I'm suffering from fever,assessment:0.70483826158,medicine:from fever, ,assessment:0.70483826158,automobile:0.29516173842
-I had paracetamol,assessment:0.878937789507,medicine:paracetamol, ,assessment:0.878937789507,automobile:0.121062210493
-I have diarrhea,assessment:0.575000971576,medicine:diarrhea, ,assessment:0.575000971576,automobile:0.424999028424
+Text,Intent,prob,entitie1,entitie2
+I have fever,symptom,0.881924135316,disease:fever, 
+I have cold,symptom,0.8808788787,disease:cold, 
+I'm suffering from fever,symptom,0.830988583973,disease:fever, 
+I had paracetamol,symptom,0.924966012414,disease:paracetamol, 
+I have diarrhea,symptom,0.924143972389,disease:diarrhea, 
+I have tumor,symptom,0.68067612159,disease:tumor, 
 
 
-i have a car,automobile:0.925565778825,owned:car, ,automobile:0.925565778825,assessment:0.0744342211747
-i have coffee,assessment:0.561176752517,medicine:coffee, ,assessment:0.561176752517,automobile:0.438823247483
-i've been going out,assessment:0.740738743618,medicine:out, ,assessment:0.740738743618,automobile:0.259261256382
-i want mexican food,assessment:0.766507093314,medicine:mexican food, ,assessment:0.766507093314,automobile:0.233492906686
-i bought a car,automobile:0.851123358937,owned:car, ,automobile:0.851123358937,assessment:0.148876641063
-how are you,automobile:0.521392015433,medicine:you, ,automobile:0.521392015433,assessment:0.478607984567
-let's go,assessment:0.86945422259, , ,assessment:0.86945422259,automobile:0.13054577741
-I will come,automobile:0.571262266736, , ,automobile:0.571262266736,assessment:0.428737733264
-I have done that,assessment:0.631038768888,medicine:that, ,assessment:0.631038768888,automobile:0.368961231112
-I wil watch TV,assessment:0.664819399803,medicine:TV, ,assessment:0.664819399803,automobile:0.335180600197
-I have homework,assessment:0.574554652261,medicine:homework, ,assessment:0.574554652261,automobile:0.425445347739
-I have homework to do,assessment:0.59160542527, , ,assessment:0.59160542527,automobile:0.40839457473
-I have a cycle,automobile:0.902186788376,owned:cycle, ,automobile:0.902186788376,assessment:0.097813211624
-I have a tumor,automobile:0.873439552017,owned:tumor, ,automobile:0.873439552017,assessment:0.126560447983
+i have a car,symptom,0.711616491699,disease:car, 
+i have coffee,symptom,0.814125584931,disease:coffee, 
+i've been going out,affirm,0.375726089712, , 
+i want mexican food,restaurant_search,0.358256789417,cuisine:mexican, 
+i bought a car,symptom,0.63625911501,disease:car, 
+how are you,symptom,0.558300314171, , 
+let's go,affirm,0.455486176753, , 
+I will come,symptom,0.84719492971, , 
+I have done that,symptom,0.480431981032, , 
+I wil watch TV,symptom,0.401632009485,disease:TV, 
+I have homework,symptom,0.603684235369,disease:homework, 
+I have homework to do,symptom,0.484596087036, , 
+I have a cycle,symptom,0.452546889255,disease:cycle, 
 
 
