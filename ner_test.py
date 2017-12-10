@@ -10,7 +10,6 @@ positive = [
     "I had paracetamol",
     "I have diarrhea",
     "I have tumor"
-
 ]
 
 
@@ -27,8 +26,7 @@ negative = [
     "I wil watch TV",
     "I have homework",
     "I have homework to do",
-    "I have a cycle",
-
+    "I have a cycle"
 ]
 
 
@@ -88,8 +86,8 @@ def normal():
     f = open("normal_vocab.csv","w")
     for row in all_rows:
         f.write(row+"\n")
-# clinical()
-# print(all_rows)
+clinical()
+print(all_rows)
 normal()
 print(all_rows)
 print("done")
